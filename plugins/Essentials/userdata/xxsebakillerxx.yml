@@ -1,0 +1,23 @@
+timestamps:
+  login: 1378059634165
+  lastteleport: 1377730125442
+  logout: 1378059647269
+ipAddress: 201.215.106.183
+lastlocation:
+  world: world
+  x: -1037.9739697870025
+  y: 21.0
+  z: 205.87041808161234
+  yaw: -342.77933
+  pitch: 36.339817
+money: '0.0'
+ban:
+  reason: Baneado del servidor temporalmente por 5 segundos.
+  timeout: 0
+logoutlocation:
+  world: Parcelas
+  x: -56.61526476024468
+  y: 66.0
+  z: 58.244489303528795
+  yaw: -263.69604
+  pitch: 13.062892

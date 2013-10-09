@@ -1,0 +1,25 @@
+timestamps:
+  login: 1377816165784
+  lastteleport: 1377816278461
+  logout: 1377816472559
+ipAddress: 84.93.56.31
+lastlocation:
+  world: world
+  x: -551.751792108924
+  y: 43.0
+  z: 109.52673333640541
+  yaw: 144.75006
+  pitch: 29.099985
+money: '0.0'
+ban:
+  reason: '§4Baneado:
+
+    §rCheats'
+  timeout: 0
+logoutlocation:
+  world: Recursos
+  x: -615.0857045212231
+  y: 123.61382198333116
+  z: 618.526414748108
+  yaw: 220.49551
+  pitch: 71.09993

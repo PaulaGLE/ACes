@@ -1,0 +1,24 @@
+timestamps:
+  login: 1377643768510
+  logout: 1377643777384
+ipAddress: 98.196.209.60
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -505.99438577251186
+  y: 50.0
+  z: 278.3764111321902
+  yaw: -163.2
+  pitch: 30.150007
+ban:
+  reason: '§4Baneado:
+
+    §rHacks.'
+  timeout: 0

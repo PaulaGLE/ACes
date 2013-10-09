@@ -1,0 +1,24 @@
+timestamps:
+  login: 1377803533415
+  logout: 1377803590731
+ipAddress: 94.14.206.77
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+money: '0.0'
+ban:
+  reason: '§4Baneado:
+
+    §rSpanish Server, OCK.'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -579.728421738155
+  y: 44.015555072702206
+  z: 177.15829574782654
+  yaw: 108.15001
+  pitch: 8.850003

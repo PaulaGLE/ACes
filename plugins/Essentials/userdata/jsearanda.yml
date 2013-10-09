@@ -1,0 +1,40 @@
+timestamps:
+  login: 1378570273751
+  logout: 1378570623084
+  lastteleport: 1378351385794
+  lastheal: 1378570297540
+  jail: 0
+ipAddress: 200.74.12.190
+logoutlocation:
+  world: PvP
+  x: 3123.6994891109966
+  y: 33.0
+  z: 1478.2306383391478
+  yaw: -15.375
+  pitch: 39.900063
+lastlocation:
+  world: PvP
+  x: 193.4925801076488
+  y: 66.0
+  z: 400.89600368991927
+  yaw: -244.4958
+  pitch: 15.900052
+money: '85344.1833212898099097'
+afk: false
+homes:
+  home:
+    world: PvP
+    x: 147.39750240918892
+    y: 14.0
+    z: 127.01931035478435
+    yaw: -315.24646
+    pitch: 13.199997
+  pene:
+    world: PvP
+    x: 475.33926298237736
+    y: 56.0
+    z: 445.50964071908004
+    yaw: -185.8656
+    pitch: 28.404211
+nickname: §3JseAranda
+jailed: false

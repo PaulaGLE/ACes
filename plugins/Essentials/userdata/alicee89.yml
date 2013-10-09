@@ -1,0 +1,34 @@
+timestamps:
+  login: 1378955025815
+  logout: 1378955084482
+  lastteleport: 1377984364718
+ipAddress: 190.75.207.217
+lastlocation:
+  world: PvP
+  x: -1303.7196413272984
+  y: 45.0
+  z: -237.30000001192093
+  yaw: -289.25208
+  pitch: -3.6000502
+money: '0.0'
+homes:
+  home:
+    world: PvP
+    x: -1206.0143098628912
+    y: 32.0
+    z: -166.0157061602419
+    yaw: -115.25413
+    pitch: 39.29997
+logoutlocation:
+  world: PvP
+  x: -1220.699999988079
+  y: 30.0
+  z: -162.90467288565227
+  yaw: -113.90437
+  pitch: 10.799976
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §r¡El Ban Hammer ha hablado!'
+  timeout: 0

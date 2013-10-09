@@ -1,0 +1,33 @@
+timestamps:
+  login: 1377648548453
+  lastteleport: 1377649584438
+  logout: 1377650448627
+ipAddress: 186.108.79.254
+lastlocation:
+  world: PvP
+  x: 178.3504378595115
+  y: 117.0
+  z: -554.982786495097
+  yaw: 42.255615
+  pitch: 10.799994
+money: '59.0'
+logoutlocation:
+  world: PvP
+  x: 1038.025066609363
+  y: 75.0
+  z: 520.3102924514678
+  yaw: 357.7776
+  pitch: 28.200008
+homes:
+  home:
+    world: PvP
+    x: 710.5031705111109
+    y: 12.0
+    z: 477.30589247211657
+    yaw: 357.10428
+    pitch: -7.5699573
+ban:
+  reason: '§4Baneado:
+
+    §rHack'
+  timeout: 0

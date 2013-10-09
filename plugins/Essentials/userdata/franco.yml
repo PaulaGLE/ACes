@@ -1,0 +1,34 @@
+timestamps:
+  login: 1379743811608
+  lastteleport: 1379659196848
+  logout: 1379743598058
+ipAddress: 190.113.166.74
+lastlocation:
+  world: Parcelas
+  x: 52.830917271727415
+  y: 65.5
+  z: 151.26887370477738
+  yaw: -254.27547
+  pitch: 17.289244
+money: '94485.21893988346350487635683940025'
+logoutlocation:
+  world: Parcelas
+  x: 60.23274352974003
+  y: 65.0
+  z: 151.157500658416
+  yaw: -202.83961
+  pitch: 55.882004
+homes:
+  home:
+    world: PvP
+    x: -588.1966606178195
+    y: 49.0
+    z: 94.65296556861077
+    yaw: -127.03491
+    pitch: 16.399645
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §r¡El Ban Hammer ha hablado!'
+  timeout: 0

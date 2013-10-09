@@ -1,0 +1,52 @@
+timestamps:
+  login: 1379631612519
+  lastteleport: 1379269349703
+  logout: 1379631893523
+  lastheal: 1379631793442
+  kits:
+    fullsword: 1378273894588
+    fullarmor: 1379106045135
+    fullbow: 1377838241454
+    kitinicial: 1378779003670
+    fullhelmet: 1378101034728
+ipAddress: 190.200.214.33
+lastlocation:
+  world: PvP
+  x: -644.2683502222868
+  y: 64.0
+  z: 62.722989250913265
+  yaw: -22.957275
+  pitch: 36.00001
+money: '8979.9000000000000057'
+logoutlocation:
+  world: PvP
+  x: -644.3024348276653
+  y: 56.0
+  z: 65.58021128955662
+  yaw: -273.75067
+  pitch: 15.450046
+afk: false
+homes:
+  mina9:
+    world: PvP
+    x: -701.8765985949719
+    y: 9.0
+    z: 215.0494922662645
+    yaw: -268.00952
+    pitch: 28.199888
+  mina:
+    world: PvP
+    x: -601.1531422241701
+    y: 15.0
+    z: 20.755572075501167
+    yaw: -3.914795
+    pitch: 38.850002
+  nether:
+    world: world_nether
+    x: 133.96632628390762
+    y: 82.0
+    z: 423.44222206408455
+    yaw: 320.4087
+    pitch: 0.74995255
+godmode: false
+nickname: §4Nejro

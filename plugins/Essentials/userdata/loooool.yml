@@ -1,0 +1,25 @@
+timestamps:
+  login: 1379348537403
+  lastteleport: 1379348607952
+  logout: 1379349131352
+ipAddress: 190.160.30.220
+lastlocation:
+  world: world
+  x: -518.2574009439356
+  y: 40.0
+  z: 168.57559393755915
+  yaw: 140.09978
+  pitch: 11.850078
+money: '0.0'
+logoutlocation:
+  world: PvP
+  x: 403.37427798134723
+  y: 54.0
+  z: 339.69999998807907
+  yaw: 166.79517
+  pitch: 54.14998
+ban:
+  reason: '§4Baneado:
+
+    §rCuenta secundaria.'
+  timeout: 0

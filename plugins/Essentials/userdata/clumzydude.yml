@@ -1,0 +1,23 @@
+timestamps:
+  login: 1377618587921
+  logout: 1377618632571
+ipAddress: 80.6.235.217
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+logoutlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -175.7501
+  pitch: 0.1999977
+ban:
+  reason: '§4Baneado:
+
+    §rSPAM.'
+  timeout: 0

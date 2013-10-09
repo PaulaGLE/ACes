@@ -1,0 +1,25 @@
+timestamps:
+  login: 1378690988261
+  lastteleport: 1378691108739
+  logout: 1378691126443
+ipAddress: 181.165.127.63
+lastlocation:
+  world: world
+  x: -568.5153559091673
+  y: 43.0
+  z: 162.89512492239996
+  yaw: 310.31158
+  pitch: -6.3000307
+money: '0.0'
+logoutlocation:
+  world: PvP
+  x: 207.70936568152578
+  y: 64.20000004768372
+  z: 400.3257950607466
+  yaw: 181.49692
+  pitch: 35.249947
+ban:
+  reason: '§4Baneado:
+
+    §rCon lso chetos pa otro sv.'
+  timeout: 0

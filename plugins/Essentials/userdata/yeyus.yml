@@ -1,0 +1,34 @@
+timestamps:
+  login: 1379189153199
+  logout: 1379190208463
+  lastteleport: 1379190138754
+ipAddress: 187.175.139.3
+lastlocation:
+  world: Parcelas
+  x: 23.5
+  y: 66.0
+  z: 0.5
+  yaw: 268.75952
+  pitch: 2.9071393
+money: '4826.88319648584605510'
+logoutlocation:
+  world: world_nether
+  x: 177.22408860560492
+  y: 19.0
+  z: -95.87982078603935
+  yaw: 264.24557
+  pitch: -54.334137
+homes:
+  home:
+    world: world_nether
+    x: 179.2111090729013
+    y: 9.966368041641235
+    z: -88.60242954290104
+    yaw: 2.798859
+    pitch: 53.57371
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §rOtro más a la lista de cheaters con x-ray...'
+  timeout: 0

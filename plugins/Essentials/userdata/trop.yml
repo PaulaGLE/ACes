@@ -1,0 +1,45 @@
+timestamps:
+  login: 1379731756137
+  lastteleport: 1379731620700
+  logout: 1379732745558
+  kits:
+    fullpickaxe: 1378856386761
+    fulltools: 1377981374529
+    fullsword: 1378856583291
+    fullshovel: 1378699959448
+    fullboots: 1379127433440
+    fullarmor: 1379731914245
+    fullweapons: 1378073908390
+    fullaxe: 1378856391612
+    fullbow: 1379174137738
+    kitinicial: 1379125023490
+    armorprotiv: 1378074694793
+    fullhelmet: 1378245913869
+  lastheal: 1379622386043
+ipAddress: 201.210.194.112
+lastlocation:
+  world: PvP
+  x: 216.5
+  y: 63.0
+  z: 395.5
+  yaw: 227.09717
+  pitch: 37.05005
+afk: false
+logoutlocation:
+  world: PvP
+  x: 757.2904220355741
+  y: 80.36933695946747
+  z: 538.5029186396519
+  yaw: -23.708008
+  pitch: 90.0
+money: '0.0'
+nickname: §6Trop
+homes:
+  spa:
+    world: PvP
+    x: 54.36205340327864
+    y: 7.300740210364248
+    z: 419.13292142947324
+    yaw: -128.21631
+    pitch: 19.50008
+godmode: false

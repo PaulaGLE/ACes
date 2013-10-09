@@ -1,0 +1,28 @@
+timestamps:
+  login: 1377781426462
+  lastteleport: 1377697516723
+  logout: 1377781559109
+ipAddress: 2.137.210.161
+lastlocation:
+  world: Recursos
+  x: -378.7940047305702
+  y: 66.0
+  z: 491.8789936570954
+  yaw: -191.48157
+  pitch: 16.843592
+money: '1937.9499895346226835'
+homes:
+  home:
+    world: PvP
+    x: 281.5627139368353
+    y: 57.0
+    z: 384.5637835304886
+    yaw: -284.5368
+    pitch: 21.533085
+logoutlocation:
+  world: PvP
+  x: 268.02238650846385
+  y: 63.0
+  z: 394.59618952291794
+  yaw: -142.36462
+  pitch: 19.500162

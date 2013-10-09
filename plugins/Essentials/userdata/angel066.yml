@@ -1,0 +1,29 @@
+timestamps:
+  login: 1379736776108
+  logout: 1379742123058
+  lastteleport: 1379742099258
+ipAddress: 201.199.230.251
+lastlocation:
+  world: world_nether
+  x: 10.23580652404744
+  y: 52.0
+  z: -36.42705468843289
+  yaw: 163.11963
+  pitch: 31.136133
+money: '10754.96853914735057348'
+logoutlocation:
+  world: Parcelas
+  x: 10.140268322335201
+  y: 69.0
+  z: 177.86246104761787
+  yaw: -174.45001
+  pitch: 10.349999
+afk: false
+homes:
+  home:
+    world: Recursos
+    x: 259.87564180780623
+    y: 5.0
+    z: 1228.928068470813
+    yaw: -42.509033
+    pitch: 18.45

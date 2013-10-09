@@ -1,0 +1,36 @@
+timestamps:
+  login: 1378845091788
+  logout: 1378845096848
+  lastteleport: 1378745263043
+  kits:
+    kitinicial: 1376713045806
+  lastheal: 1377895140551
+  jail: 0
+ipAddress: 190.160.57.108
+lastlocation:
+  world: world
+  x: -563.8760777178936
+  y: 22.0
+  z: 288.12959671134973
+  yaw: -260.208
+  pitch: 22.050014
+logoutlocation:
+  world: Parcelas
+  x: 44.30000001192093
+  y: 65.0
+  z: -7.896285660438824
+  yaw: 343.52603
+  pitch: 16.499973
+money: '65360.7865992304045923'
+godmode: false
+nickname: §3xXalexskate13Xx
+homes:
+  home:
+    world: world
+    x: -415.46913927863585
+    y: 76.0
+    z: 357.27728368643466
+    yaw: -88.428795
+    pitch: 33.873028
+afk: false
+jailed: false

@@ -1,0 +1,21 @@
+timestamps:
+  login: 1378571865551
+  lastteleport: 1378525405405
+  logout: 1378571868694
+ipAddress: 190.20.137.253
+lastlocation:
+  world: Recursos
+  x: 18.71663536084816
+  y: 59.0
+  z: 574.6999999880791
+  yaw: -2.7042098
+  pitch: 58.650227
+money: '1.9'
+logoutlocation:
+  world: Recursos
+  x: 31.15839425682433
+  y: 71.0
+  z: 639.3083115751701
+  yaw: 172.49611
+  pitch: 22.650223
+afk: false

@@ -1,0 +1,20 @@
+timestamps:
+  login: 1377806308740
+  lastteleport: 1377807378784
+  logout: 1377807403185
+ipAddress: 190.172.181.91
+lastlocation:
+  world: world
+  x: -456.92775236208706
+  y: 14.0
+  z: 190.8900258514962
+  yaw: -285.91965
+  pitch: 18.199177
+money: '0.0'
+logoutlocation:
+  world: PvP
+  x: 241.68155496664403
+  y: 63.0
+  z: 401.95574906940544
+  yaw: -135.19582
+  pitch: -21.193495

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1379186978007
+  lastteleport: 1379188066446
+  logout: 1379189211991
+ipAddress: 186.90.218.147
+lastlocation:
+  world: world
+  x: -518.5991435651185
+  y: 13.0
+  z: 191.08831560650745
+  yaw: 22.2459
+  pitch: 8.699896
+money: '554.3035531250000361'
+logoutlocation:
+  world: world_nether
+  x: 16.30000001192093
+  y: 20.0
+  z: 26.69999998807907
+  yaw: 199.35352
+  pitch: -33.899956
+ban:
+  reason: '§4Baneado:
+
+    §rUso de cheats (x-ray)'
+  timeout: 0

@@ -1,0 +1,51 @@
+timestamps:
+  login: 1381353448906
+  logout: 1379744153060
+  lastteleport: 1381353930089
+  lastheal: 1373606164718
+  kits:
+    manzanasoroencantadas: 1377547040053
+    fullsword: 1377400344881
+    fulltools: 1379451866915
+    packhechicero: 1377406468493
+    fullarmor: 1379115785071
+    fullweapons: 1379392575825
+    fullbow: 1377533379093
+    armorprotiv: 1379729583495
+    kitinicial: 1379189741708
+    packmonstruos: 1378249515322
+    fullhelmet: 1377138520016
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: Parcelas
+  x: 36.708343357841876
+  y: 78.0
+  z: 37.3506113146125
+  yaw: 271.52197
+  pitch: 31.049868
+lastlocation:
+  world: world
+  x: -1241.1582662199844
+  y: 39.784291527107534
+  z: 314.4344163840103
+  yaw: 197.36938
+  pitch: 7.799765
+godmode: true
+money: '110596.0'
+homes:
+  home:
+    world: PvP
+    x: -1037.0934598483414
+    y: 69.0
+    z: 252.5311048819935
+    yaw: 305.1032
+    pitch: 14.5500765
+  posible:
+    world: PvP
+    x: 2628.696902563332
+    y: 64.0
+    z: 1347.3482234427051
+    yaw: 353.9204
+    pitch: 29.399986
+afk: false
+nickname: §6PhoenixAS

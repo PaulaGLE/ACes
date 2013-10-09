@@ -1,0 +1,28 @@
+timestamps:
+  login: 1378078317425
+  lastteleport: 1378078405292
+  jail: 1378082228409
+  logout: 1378078801239
+ipAddress: 184.96.153.115
+lastlocation:
+  world: PvP
+  x: 171.15930950671105
+  y: 73.0
+  z: 408.1985856956967
+  yaw: -87.508545
+  pitch: 17.7953
+money: '0.0'
+jailed: true
+jail: catacumba
+logoutlocation:
+  world: world
+  x: -1289.0368417394188
+  y: 62.0
+  z: 453.3414437056649
+  yaw: -346.3749
+  pitch: 16.016552
+ban:
+  reason: '§4Baneado:
+
+    §r¡El Ban Hammer ha hablado!'
+  timeout: 0

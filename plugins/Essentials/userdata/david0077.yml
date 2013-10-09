@@ -1,0 +1,33 @@
+timestamps:
+  login: 1378654969029
+  lastteleport: 1378655522788
+  logout: 1378655603738
+ipAddress: 186.81.90.180
+lastlocation:
+  world: Parcelas
+  x: -63.850271383555935
+  y: 70.0
+  z: 28.122964709971072
+  yaw: -226.64636
+  pitch: 25.453844
+money: '415.8856875000000073'
+logoutlocation:
+  world: Parcelas
+  x: 10.04750111495954
+  y: 65.0
+  z: 128.2660421166451
+  yaw: -1.0054647
+  pitch: -10.4630375
+homes:
+  home:
+    world: Parcelas
+    x: -18.909852402286578
+    y: 65.0
+    z: -137.26847249761792
+    yaw: -235.33989
+    pitch: 14.411071
+ban:
+  reason: '§4Baneado:
+
+    §r¡El Ban Hammer ha hablado!'
+  timeout: 0

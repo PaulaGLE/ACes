@@ -1,0 +1,24 @@
+timestamps:
+  login: 1377918605890
+  logout: 1377918685942
+ipAddress: 98.211.9.10
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+money: '0.0'
+ban:
+  reason: '§4Baneado:
+
+    §r¡El Ban Hammer ha hablado!'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -589.6542167608692
+  y: 43.0
+  z: 140.53428192247716
+  yaw: -82.49998
+  pitch: 37.200005

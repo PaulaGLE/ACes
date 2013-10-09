@@ -1,0 +1,23 @@
+timestamps:
+  login: 1379189465973
+  logout: 1379189482948
+ipAddress: 188.78.180.147
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+ban:
+  reason: '§4Baneado:
+
+    §rChau.'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -516.5
+  y: 43.0
+  z: 116.5
+  yaw: -263.4389
+  pitch: 5.849958

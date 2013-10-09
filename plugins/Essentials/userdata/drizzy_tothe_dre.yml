@@ -1,0 +1,25 @@
+timestamps:
+  login: 1378078645191
+  lastteleport: 1378078452290
+  logout: 1378078691241
+ipAddress: 184.96.153.115
+lastlocation:
+  world: world
+  x: -668.7147316827688
+  y: 23.649513381159093
+  z: 116.17164698028219
+  yaw: -297.4492
+  pitch: 65.626114
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -711.3174288869957
+  y: 24.158400723167397
+  z: 149.61794453967525
+  yaw: -292.67975
+  pitch: 7.787474
+ban:
+  reason: '§4Baneado:
+
+    §rHack.'
+  timeout: 0

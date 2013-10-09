@@ -1,0 +1,34 @@
+timestamps:
+  login: 1379181004419
+  lastteleport: 1379182600822
+  logout: 1379183217104
+ipAddress: 176.56.174.21
+lastlocation:
+  world: PvP
+  x: 1057.5021511183782
+  y: 50.0
+  z: 2028.300000011921
+  yaw: 28.623535
+  pitch: -29.999994
+money: '7122.91207821288487949'
+logoutlocation:
+  world: Parcelas
+  x: 27.394005443964748
+  y: 65.5
+  z: 26.049593225562496
+  yaw: 278.52563
+  pitch: 3.7499995
+homes:
+  home:
+    world: Recursos
+    x: -111.30336386036139
+    y: 16.0
+    z: 638.6231873808812
+    yaw: -124.351074
+    pitch: 15.600019
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §rUso de cheats (x-ray)'
+  timeout: 0

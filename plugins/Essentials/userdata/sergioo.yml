@@ -1,0 +1,26 @@
+timestamps:
+  login: 1379187271507
+  logout: 1379188537499
+  lastteleport: 1379188422459
+ipAddress: 80.102.95.163
+lastlocation:
+  world: Recursos
+  x: 312.53168144305204
+  y: 9.0
+  z: 570.2021867774081
+  yaw: -170.40291
+  pitch: -0.59996545
+money: '200593.58480571793387852'
+logoutlocation:
+  world: Parcelas
+  x: 118.5233848519543
+  y: 66.11999998986721
+  z: 76.99850235208376
+  yaw: -5.8495955
+  pitch: 23.699995
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §rUso de cheats (x-ray)'
+  timeout: 0

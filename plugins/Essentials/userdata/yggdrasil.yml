@@ -1,0 +1,34 @@
+timestamps:
+  login: 1378942631767
+  lastteleport: 1378942678916
+  logout: 1378942693266
+ipAddress: 181.46.23.126
+lastlocation:
+  world: world
+  x: -590.7648370680367
+  y: 43.0
+  z: 176.87401360865013
+  yaw: 48.111572
+  pitch: -5.550027
+money: '4586.9072442374733929'
+godmode: false
+logoutlocation:
+  world: PvP
+  x: 190.41262190501774
+  y: 65.0
+  z: 401.1193366229504
+  yaw: 89.54712
+  pitch: 4.0499244
+afk: false
+nickname: §3Yggdrasil
+ban:
+  reason: 'Banned: ¡Has sido baneado por romper las normas! ¿Quién te crees?'
+  timeout: 0
+homes:
+  home:
+    world: PvP
+    x: 1989.4590942970972
+    y: 63.0
+    z: 382.31227613873244
+    yaw: -39.2182
+    pitch: 39.584953

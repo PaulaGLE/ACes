@@ -1,0 +1,34 @@
+timestamps:
+  login: 1378775587779
+  lastteleport: 1378775365450
+  logout: 1378775733216
+ipAddress: 80.30.109.0
+lastlocation:
+  world: Recursos
+  x: 717.4197233110656
+  y: 14.0
+  z: 282.69999998807907
+  yaw: 276.07977
+  pitch: 17.522116
+money: '64913.6821505602333098'
+homes:
+  home:
+    world: Recursos
+    x: 368.63373852201767
+    y: 8.0
+    z: 829.366659512125
+    yaw: 183.62543
+    pitch: 17.785635
+logoutlocation:
+  world: Recursos
+  x: -681.3000000119209
+  y: 3.0
+  z: 714.3110385438997
+  yaw: -102.25572
+  pitch: 14.227755
+afk: false
+ban:
+  reason: '§4Baneado:
+
+    §rCheto.'
+  timeout: 0

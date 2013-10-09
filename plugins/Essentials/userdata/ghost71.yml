@@ -1,0 +1,31 @@
+timestamps:
+  login: 1379731531198
+  lastteleport: 1379735386208
+  logout: 1379735595558
+  lastheal: 1379734430178
+ipAddress: 46.16.33.254
+lastlocation:
+  world: Parcelas
+  x: 237.59893761438403
+  y: 65.0
+  z: -31.140576097292293
+  yaw: -75.74999
+  pitch: -2.249999
+money: '2347.7197374969781002'
+logoutlocation:
+  world: Parcelas
+  x: 238.6388792627877
+  y: 65.0
+  z: -30.40947646556326
+  yaw: -151.04999
+  pitch: 2.5500093
+afk: false
+homes:
+  home:
+    world: PvP
+    x: 829.4075001446721
+    y: 57.0
+    z: 1245.710939354285
+    yaw: 120.408264
+    pitch: 5.1000113
+nickname: §5ghost71

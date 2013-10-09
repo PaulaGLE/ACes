@@ -1,0 +1,29 @@
+timestamps:
+  login: 1379288695165
+  lastteleport: 1379289431074
+  logout: 1379289880460
+ipAddress: 186.55.22.52
+lastlocation:
+  world: Parcelas
+  x: -129.19710276733719
+  y: 98.0
+  z: 125.96443461094881
+  yaw: 274.31128
+  pitch: 59.69449
+money: '23099.3281779229960821'
+homes:
+  home:
+    world: Parcelas
+    x: -130.2997469570057
+    y: 73.0
+    z: 124.34119496689118
+    yaw: 312.77002
+    pitch: 90.0
+logoutlocation:
+  world: Parcelas
+  x: -7.567382690592189
+  y: 86.0
+  z: 8.699800179603821
+  yaw: 156.75569
+  pitch: 22.620247
+afk: false

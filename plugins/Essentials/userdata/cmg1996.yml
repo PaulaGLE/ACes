@@ -1,0 +1,20 @@
+timestamps:
+  login: 1377622108170
+  lastteleport: 1377622226521
+  logout: 1377622647570
+ipAddress: 81.44.93.138
+lastlocation:
+  world: world
+  x: -704.21351349643
+  y: 20.0
+  z: 373.0037521548189
+  yaw: -106.761536
+  pitch: 10.460768
+money: '0.0'
+logoutlocation:
+  world: Parcelas
+  x: -326.6285759857232
+  y: 65.0
+  z: -711.2556555250997
+  yaw: -213.46704
+  pitch: 11.77241

@@ -1,0 +1,18 @@
+timestamps:
+  login: 1378948512234
+  logout: 1378948518385
+ipAddress: 201.143.131.216
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+logoutlocation:
+  world: world
+  x: -516.5
+  y: 43.0
+  z: 116.5
+  yaw: -283.43085
+  pitch: 37.28155

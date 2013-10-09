@@ -1,0 +1,23 @@
+timestamps:
+  login: 1379189352349
+  logout: 1379189418865
+ipAddress: 188.78.180.147
+lastlocation:
+  world: world
+  x: -516.0
+  y: 43.0
+  z: 116.3
+  yaw: -270.1
+  pitch: 30.8
+ban:
+  reason: '§4Baneado:
+
+    §rAndá a trollear a lsrp.'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: -523.0749999880791
+  y: 44.0
+  z: 115.95519759722598
+  yaw: -65.50012
+  pitch: 29.89995

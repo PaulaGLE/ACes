@@ -1,0 +1,45 @@
+timestamps:
+  login: 1379298110088
+  lastteleport: 1379298813526
+  logout: 1379298871676
+  lastheal: 1379297807737
+ipAddress: 186.36.180.79
+lastlocation:
+  world: world
+  x: -578.1407981157837
+  y: 43.0
+  z: 160.42038552183857
+  yaw: 272.06158
+  pitch: 18.449968
+money: '336800.06494747667129190'
+logoutlocation:
+  world: Parcelas
+  x: 95.45029549773184
+  y: 65.5
+  z: 15.039860880471004
+  yaw: 186.47586
+  pitch: 12.449782
+homes:
+  home:
+    world: PvP
+    x: 2570.722865745572
+    y: 45.0
+    z: 742.5091954689941
+    yaw: -90.40811
+    pitch: 15.300011
+  spawn:
+    world: world_nether
+    x: -213.0759415018676
+    y: 59.0
+    z: -700.6240850069876
+    yaw: -172.79941
+    pitch: 3.1323166
+  tienda:
+    world: world
+    x: -469.75736412856065
+    y: 20.0
+    z: 201.32865629428957
+    yaw: -161.804
+    pitch: 30.149904
+afk: false
+nickname: CracKeR

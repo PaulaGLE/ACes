@@ -1,0 +1,25 @@
+timestamps:
+  login: 1377631374056
+  logout: 1377631414026
+  lastteleport: 1377631195577
+ipAddress: 89.242.185.141
+lastlocation:
+  world: world
+  x: -465.9859554570254
+  y: 21.5
+  z: 319.57560376629095
+  yaw: -213.37347
+  pitch: -2.1542263
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -566.8322713673322
+  y: 43.0
+  z: 161.88494058380402
+  yaw: -216.22961
+  pitch: 31.129889
+ban:
+  reason: '§4Baneado:
+
+    §rOk'
+  timeout: 0

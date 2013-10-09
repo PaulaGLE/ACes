@@ -1,0 +1,33 @@
+timestamps:
+  login: 1379726371229
+  logout: 1379732563058
+  lastteleport: 1379732525658
+  lastheal: 1379730213717
+  jail: 0
+ipAddress: 181.165.117.174
+lastlocation:
+  world: PvP
+  x: 1223.2656330217142
+  y: 68.0
+  z: 215.37704851857666
+  yaw: -12.470947
+  pitch: 16.650026
+money: '208062.38850157878870722'
+logoutlocation:
+  world: Parcelas
+  x: 78.88002478167215
+  y: 80.94775899403832
+  z: 48.14012347319337
+  yaw: 132.14978
+  pitch: 27.600002
+afk: false
+homes:
+  home:
+    world: PvP
+    x: 103.13458076184881
+    y: 64.0
+    z: 294.38251376135986
+    yaw: -351.30307
+    pitch: 21.14998
+nickname: §3Woolf
+jailed: false
