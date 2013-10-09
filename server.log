@@ -1,0 +1,90 @@
+2013-10-09 17:34:57 [INFO] Starting minecraft server version 1.6.2
+2013-10-09 17:34:57 [INFO] Loading properties
+2013-10-09 17:34:57 [WARNING] server.properties does not exist
+2013-10-09 17:34:57 [INFO] Generating new properties file
+2013-10-09 17:34:57 [INFO] Default game type: SURVIVAL
+2013-10-09 17:34:57 [INFO] Generating keypair
+2013-10-09 17:34:58 [INFO] Starting Minecraft server on *:25565
+2013-10-09 17:34:58 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-22-gcea8f29-b2811jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2013-10-09 17:34:58 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (El sistema no puede encontrar el archivo especificado)
+2013-10-09 17:34:58 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (El sistema no puede encontrar el archivo especificado)
+2013-10-09 17:34:58 [INFO] Preparing level "world"
+2013-10-09 17:34:58 [INFO] Preparing start region for level 0 (Seed: -3955231021133182528)
+2013-10-09 17:34:59 [INFO] Preparing spawn area: 9%
+2013-10-09 17:35:00 [WARNING] ----- Bukkit Auto Updater -----
+2013-10-09 17:35:00 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.2-R1.0 (build #2879) was released on Wed Sep 11 02:02:22 ART 2013.
+2013-10-09 17:35:00 [WARNING] Details: /downloads/craftbukkit/view/02342_1.6.2-R1.0/
+2013-10-09 17:35:00 [WARNING] Download: /downloads/craftbukkit/get/02342_1.6.2-R1.0/craftbukkit.jar
+2013-10-09 17:35:00 [WARNING] ----- ------------------- -----
+2013-10-09 17:35:00 [INFO] Preparing spawn area: 17%
+2013-10-09 17:35:01 [INFO] Preparing spawn area: 26%
+2013-10-09 17:35:02 [INFO] Preparing spawn area: 36%
+2013-10-09 17:35:03 [INFO] Preparing spawn area: 45%
+2013-10-09 17:35:04 [INFO] Preparing spawn area: 53%
+2013-10-09 17:35:05 [INFO] Preparing spawn area: 62%
+2013-10-09 17:35:07 [INFO] Preparing spawn area: 71%
+2013-10-09 17:35:08 [INFO] Preparing spawn area: 80%
+2013-10-09 17:35:09 [INFO] Preparing spawn area: 91%
+2013-10-09 17:35:09 [INFO] Preparing start region for level 1 (Seed: -3955231021133182528)
+2013-10-09 17:35:11 [INFO] Preparing spawn area: 13%
+2013-10-09 17:35:12 [INFO] Preparing spawn area: 23%
+2013-10-09 17:35:13 [INFO] Preparing spawn area: 36%
+2013-10-09 17:35:14 [INFO] Preparing spawn area: 45%
+2013-10-09 17:35:15 [INFO] Preparing spawn area: 57%
+2013-10-09 17:35:16 [INFO] Preparing spawn area: 71%
+2013-10-09 17:35:17 [INFO] Preparing spawn area: 78%
+2013-10-09 17:35:18 [INFO] Preparing spawn area: 89%
+2013-10-09 17:35:19 [INFO] Preparing start region for level 2 (Seed: -3955231021133182528)
+2013-10-09 17:35:20 [INFO] Preparing spawn area: 37%
+2013-10-09 17:35:21 [INFO] Preparing spawn area: 71%
+2013-10-09 17:35:22 [INFO] Done (23,473s)! For help, type "help" or "?"
+2013-10-09 17:35:44 [INFO] Starting minecraft server version 1.6.2
+2013-10-09 17:35:44 [INFO] Loading properties
+2013-10-09 17:35:44 [INFO] Default game type: SURVIVAL
+2013-10-09 17:35:44 [INFO] Generating keypair
+2013-10-09 17:35:44 [INFO] Starting Minecraft server on *:25565
+2013-10-09 17:35:44 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-22-gcea8f29-b2811jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2013-10-09 17:35:44 [INFO] Preparing level "world"
+2013-10-09 17:35:45 [INFO] Preparing start region for level 0 (Seed: -7094678090884474930)
+2013-10-09 17:35:46 [INFO] Preparing spawn area: 9%
+2013-10-09 17:35:46 [WARNING] ----- Bukkit Auto Updater -----
+2013-10-09 17:35:46 [WARNING] Your version of CraftBukkit is out of date. Version 1.6.2-R1.0 (build #2879) was released on Wed Sep 11 02:02:22 ART 2013.
+2013-10-09 17:35:46 [WARNING] Details: /downloads/craftbukkit/view/02342_1.6.2-R1.0/
+2013-10-09 17:35:46 [WARNING] Download: /downloads/craftbukkit/get/02342_1.6.2-R1.0/craftbukkit.jar
+2013-10-09 17:35:46 [WARNING] ----- ------------------- -----
+2013-10-09 17:35:47 [INFO] Preparing spawn area: 17%
+2013-10-09 17:35:48 [INFO] Preparing spawn area: 25%
+2013-10-09 17:35:49 [INFO] Preparing spawn area: 33%
+2013-10-09 17:35:50 [INFO] Preparing spawn area: 43%
+2013-10-09 17:35:51 [INFO] Preparing spawn area: 50%
+2013-10-09 17:35:52 [INFO] Preparing spawn area: 58%
+2013-10-09 17:35:53 [INFO] Preparing spawn area: 65%
+2013-10-09 17:35:54 [INFO] Preparing spawn area: 73%
+2013-10-09 17:35:55 [INFO] Preparing spawn area: 82%
+2013-10-09 17:35:56 [INFO] Preparing spawn area: 91%
+2013-10-09 17:35:57 [INFO] Preparing start region for level 1 (Seed: -7094678090884474930)
+2013-10-09 17:35:58 [INFO] Preparing spawn area: 15%
+2013-10-09 17:35:59 [INFO] Preparing spawn area: 25%
+2013-10-09 17:36:00 [INFO] Preparing spawn area: 31%
+2013-10-09 17:36:01 [INFO] Preparing spawn area: 39%
+2013-10-09 17:36:02 [INFO] Preparing spawn area: 47%
+2013-10-09 17:36:03 [INFO] Preparing spawn area: 51%
+2013-10-09 17:36:05 [INFO] Preparing spawn area: 60%
+2013-10-09 17:36:06 [INFO] Preparing spawn area: 71%
+2013-10-09 17:36:07 [INFO] Preparing spawn area: 82%
+2013-10-09 17:36:08 [INFO] Preparing spawn area: 91%
+2013-10-09 17:36:09 [INFO] Preparing spawn area: 96%
+2013-10-09 17:36:10 [INFO] Preparing start region for level 2 (Seed: -7094678090884474930)
+2013-10-09 17:36:11 [INFO] Preparing spawn area: 39%
+2013-10-09 17:36:12 [INFO] Preparing spawn area: 76%
+2013-10-09 17:36:13 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-09 17:36:13 [INFO] Done (28,403s)! For help, type "help" or "?"
+2013-10-09 17:36:16 [INFO] CONSOLE: Stopping the server..[m
+2013-10-09 17:36:16 [INFO] Stopping server
+2013-10-09 17:36:16 [INFO] Saving players
+2013-10-09 17:36:16 [WARNING] DSCT: socket closed
+2013-10-09 17:36:16 [INFO] Saving worlds
+2013-10-09 17:36:16 [INFO] Closing listening thread
+2013-10-09 17:36:16 [INFO] Saving chunks for level 'world'/Overworld
+2013-10-09 17:36:18 [INFO] Saving chunks for level 'world_nether'/Nether
+2013-10-09 17:36:20 [INFO] Saving chunks for level 'world_the_end'/The End
