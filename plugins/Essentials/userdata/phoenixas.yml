@@ -1,7 +1,7 @@
 timestamps:
-  login: 1381353448906
-  logout: 1379744153060
-  lastteleport: 1381353930089
+  login: 1381356535001
+  logout: 1381356551550
+  lastteleport: 1381356542466
   lastheal: 1373606164718
   kits:
     manzanasoroencantadas: 1377547040053
@@ -17,19 +17,19 @@ timestamps:
     fullhelmet: 1377138520016
 ipAddress: 127.0.0.1
 logoutlocation:
-  world: Parcelas
-  x: 36.708343357841876
-  y: 78.0
-  z: 37.3506113146125
-  yaw: 271.52197
-  pitch: 31.049868
+  world: PvP
+  x: 203.2550946944115
+  y: 83.23783947213842
+  z: 397.51065748696203
+  yaw: 299.5468
+  pitch: 26.849909
 lastlocation:
-  world: world
-  x: -1241.1582662199844
-  y: 39.784291527107534
-  z: 314.4344163840103
-  yaw: 197.36938
-  pitch: 7.799765
+  world: PvP
+  x: 208.09034163976196
+  y: 64.0
+  z: 506.78488172534276
+  yaw: 182.09204
+  pitch: 22.650015
 godmode: true
 money: '110596.0'
 homes:

@@ -96,7 +96,8 @@ overridden-commands:
 # Commands should fallback to the vanilla versions if available.
 # You should not have to disable commands used in other plugins, they will automatically get priority.
 disabled-commands:
-#  - nick
+  - whisper
+  - helpop
 #  - clear
 
 # These commands will be shown to players with socialSpy enabled.
@@ -142,7 +143,6 @@ player-commands:
   - chat.color
   - chat.format
   - chat.shout
-  - chat.question
   - clearinventory
   - compass
   - depth
@@ -150,7 +150,6 @@ player-commands:
   - getpos
   - geoip.show
   - help
-  - helpop
   - home
   - home.others
   - ignore
