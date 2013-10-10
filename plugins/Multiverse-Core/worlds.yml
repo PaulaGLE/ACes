@@ -35,7 +35,7 @@ worlds:
     bedrespawn: true
     seed: -6281237076763550195
   world_nether:
-    seed: -7094678090884474930
+    seed: 71871138010957017
     environment: NETHER
     type: NORMAL
     hidden: false
@@ -61,16 +61,16 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: false
     spawn:
-      x: 0.0
-      y: 82.0
-      z: 0.0
+      x: -76.5
+      y: 61.0
+      z: 92.5
       pitch: 0.0
       yaw: 0.0
       world: world_nether
     autoload: true
     bedrespawn: false
   world_the_end:
-    seed: -7094678090884474930
+    seed: 4221652421035700732
     environment: THE_END
     type: NORMAL
     hidden: false
@@ -96,9 +96,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: false
     spawn:
-      x: 0.0
-      y: 61.0
-      z: 0.0
+      x: 1.5
+      y: 65.0
+      z: 0.5
       pitch: 0.0
       yaw: 0.0
       world: world_the_end

@@ -1,7 +1,7 @@
 timestamps:
-  login: 1381356535001
-  logout: 1381356551550
-  lastteleport: 1381356542466
+  login: 1381360064718
+  logout: 1381360656479
+  lastteleport: 1381360386032
   lastheal: 1373606164718
   kits:
     manzanasoroencantadas: 1377547040053
@@ -18,18 +18,18 @@ timestamps:
 ipAddress: 127.0.0.1
 logoutlocation:
   world: PvP
-  x: 203.2550946944115
-  y: 83.23783947213842
-  z: 397.51065748696203
-  yaw: 299.5468
-  pitch: 26.849909
+  x: 277.3810254944222
+  y: 81.28110463071145
+  z: 417.9312730413299
+  yaw: 99.154175
+  pitch: 28.200083
 lastlocation:
   world: PvP
-  x: 208.09034163976196
-  y: 64.0
-  z: 506.78488172534276
-  yaw: 182.09204
-  pitch: 22.650015
+  x: 256.93236160059087
+  y: 19.0
+  z: 403.2645239526547
+  yaw: 241.65576
+  pitch: 21.150068
 godmode: true
 money: '110596.0'
 homes:
