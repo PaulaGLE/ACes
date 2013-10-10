@@ -1,0 +1,336 @@
+# 
+#  MobCatcher v3.12
+#  
+#  For help with the Config file, see the BukkitDev page.  
+#  
+PluginEnabled:
+  world: true
+  world_nether: false
+  world_the_end: false
+  PvP: true
+CaptureItem:
+  Enabled: true
+  ItemName: '[all names]'
+  ItemID: 344
+  UsedOnCapture: true
+  ReturnedOnSpawn: false
+ProjectileCaptures:
+  SpawnEggsDirectToInventory: false
+  MissedEggsSpawnChickens: true
+  Type:
+    Egg: true
+    Snowball: false
+    Arrow: false
+    EnderPearl: false
+Spout:
+  Enabled: false
+SignProtection:
+  Default:
+    Radius: 10
+    SignLimit: 3
+  PlayerSet:
+    Enabled: false
+    MaxRadius: 10
+SaveDataAndRemoveStackability: true
+EffectsEnabled: true
+ThrownSpawnEggsEnabled: true
+CanCaptureMobSpawnerMobs: false
+IronGolemsProtectVillagersFromCaptures: true
+Dispensers:
+  Capture: false
+  Shoot: false
+  Power: 0.5
+Messages:
+  CaptureEnabled: false
+  SpawnEnabled: false
+  Permissions: false
+SimpleConfig:
+  Vault: false
+  PeacefulMobs:
+    ItemName: egg
+    ItemID: 344
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 30
+    MustBeKilled: false
+  HostileMobs:
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 0
+    MustBeKilled: false
+  MobsEnabled:
+    PigZombie: false
+    MagmaCube: false
+    CaveSpider: false
+    Creeper: false
+    Skeleton: false
+    Spider: false
+    Zombie: false
+    Slime: false
+    Ghast: false
+    Enderman: false
+    Sliverfish: false
+    Blaze: false
+    Pig: true
+    Sheep: true
+    Cow: true
+    Chicken: true
+    Squid: false
+    Wolf: true
+    AngryWolf: false
+    MooShroom: true
+    Villager: false
+    Ocelot: true
+    IronGolem: false
+    SnowGolem: false
+    Enderdragon: false
+    Witch: false
+    Bat: false
+    WitherSkeleton: false
+    Wither: false
+    Horse: true
+ComplexConfig:
+  Enabled: false
+  Vault: false
+  PigZombie:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  MagmaCube:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  CaveSpider:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Creeper:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Skeleton:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Spider:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Zombie:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Slime:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Ghast:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Enderman:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Silverfish:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Blaze:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Pig:
+    Enabled: true
+    ItemName: egg
+    ItemID: 344
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 25
+    MustBeKilled: true
+  Sheep:
+    Enabled: true
+    ItemName: egg
+    ItemID: 344
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 25
+    MustBeKilled: true
+  Cow:
+    Enabled: true
+    ItemName: egg
+    ItemID: 344
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 25
+    MustBeKilled: true
+  Chicken:
+    Enabled: true
+    ItemName: egg
+    ItemID: 344
+    Amount: 5
+    VaultCost: 0.0
+    Chance: 25
+    MustBeKilled: true
+  Squid:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Wolf:
+    Enabled: true
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  AngryWolf:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Mooshroom:
+    Enabled: true
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Villager:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Ocelot:
+    Enabled: true
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  IronGolem:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  SnowGolem:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Enderdragon:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Witch:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Bat:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  WitherSkeleton:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Wither:
+    Enabled: false
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false
+  Horse:
+    Enabled: true
+    ItemName: redstone dust
+    ItemID: 331
+    Amount: 5
+    VaultCost: 10.0
+    Chance: 100
+    MustBeKilled: false

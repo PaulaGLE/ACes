@@ -5,6 +5,9 @@ groups:
   g:essentials_usuarios:
     permissions:
     - multiverse.access.*
+    - multiverse.portal.access.*
+    - multiverse.portal.exempt.*
+    - groupmanager.notify.self  
     - -essentials.fly
     - essentials.afk
     - essentials.afk.auto
@@ -35,6 +38,11 @@ groups:
     - -livechat.factionchat.ally.color
     - -livechat.factionchat.private.color
     - -livechat.colortag
+    - citizens.npc.talk 
+    - PlayerPoints.me
+    - PointShop.buy.Item
+    - PointShop.buy.Cmd
+    - PointShop.sign.use
 
 
 #*******************************************************
