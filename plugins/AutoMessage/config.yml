@@ -1,0 +1,41 @@
+#  ----------------------------------------------------
+#  AutoMessage Configuration File
+#  ----------------------------------------------------
+#  Message Configuration:
+#     Messages are handled in lists to allow for advanced customization!
+#     Feel free to add color codes by using & in your messages!
+#     To split a message onto multiple lines use the \n delimiter!
+#     Lines starting with / will be run as a command!
+#     To add single apostrophes into a message use ''.
+#     For a complete tutorial go to http://dev.bukkit.org/server-mods/automessage.
+#     If you are unfamiliar with YAML use the in-game commands: /am help
+
+settings:
+  enabled: true
+  min-players: 0
+  log-to-console: false
+message-lists:
+  default:
+    enabled: true
+    random: false
+    interval: 300
+    expiry: -1
+    prefix: '&0[&4Servidor&0] '
+    suffix: ' '
+    messages:
+    - '&6¡Visita ya nuestra tienda online y aprovecha las mejores ofertas en: &bhttp://assassinscraftes.enjin.com/tienda&6!'
+    - '&9¡Conoce e interactúa con la comunidad ingresando a nuestro foro: &ahttp://assassinscraftes.enjin.com/foro&9!'
+    - '&6¡Hazte fan de nuestra página en Facebook y entérate de las novedades: &chttp://www.facebook.com/AssassinsCraftES&6!'
+    - '&a¡Próximamente, en el servidor, podrás disfrutar de una gran variedad de &6Minijuegos&a! ¡Mantente al tanto de las novedades!'
+    - '&a¿Alguna duda o situación complicada? ¡No dudes de consultar con el staff &4(/report)&a!'
+    - '&bTrabajamos constantemente para brindarte la mejor experiencia de juego. ¡Diviértete!'
+  
+  vip:
+    enabled: false
+    random: false
+    interval: 45
+    expiry: -1
+    prefix: '[&bPrefix&r]\n'
+    suffix: '\n[&4Suffix&r] '
+    messages:
+    - 'This message will be displayed only to users with \nautomessage.receive.vip!'
