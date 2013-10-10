@@ -12,6 +12,7 @@
 &a/seen <jugador>: &eVer datos de la ultima conexion de un jugador.
 &a/whois <jugador>: &eVer el nombre real de un jugador, dinero y estado.
 &a/invsee <jugador>: &eVer el inventario de un jugador.
+&a/enderchest <jugador>: &eVer el contenido del enderchest de un jugador.
 &a/getpos [jugador]: &eVer tu ubicacion o la de otro jugador.
 &a/seen banreason <jugador>: &eVer la razon del baneo de un jugador.
 &a/broadcast <mensaje>: &eColocar un anuncio global.
@@ -29,19 +30,13 @@
 &a/home <jugador>: &eIr al home de otro jugador.
 &a/tree: &eColocar un arbol en tu posicion.
 &a/firework: &eAgregar efectos a los fuegos artificiales.
-
-
+&a/block <jugador>: &eBloquea a un jugador para que no use ningun comando.
 &a/mute <jugador>: &eSilenciar a un jugador en el chat.
 
 
 
-
-
-&a/near: &eVer una lista de los jugadores cercanos.
-&a/enderchest <jugador>: &eVer el contenido del enderchest de un jugador.
 &a/playerhead spawn: &eObtener tu cabeza.
-&a/block <jugador>: &eBloquea a un jugador para que no use ningun comando.
+
 
 &a**NOTA: &eUsa /staff para hablar por el canal privado de todo el Staff.
-&a**NOTA2: &eUsa /admin para hablar por el canal privado de los Admin.
 &a----------------------------------------------------

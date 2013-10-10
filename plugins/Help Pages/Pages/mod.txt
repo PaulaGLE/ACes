@@ -13,12 +13,8 @@
 &a/jails: &eVer una lista de las carceles disponibles.
 &a/jail <jugador> <carcel> [tiempo]: &eEnviar a un jugador a la carcel.
 &a/kick <jugador> [razon]: &eExpulsar a un jugador del servidor.
-
-
-
-
-
 &a/mute <jugador>: &eSilenciar a un jugador en el chat.
+
 
 &a**NOTA: &eUsa /staff para hablar por el canal privado del Staff.
 &a----------------------------------------------------

@@ -28,7 +28,14 @@ groups:
     - -helppages.page.VIP
     - -helppages.page.Admin
     - -helppages.page.Mod
-    - breport.report  
+    - breport.report 
+    - -livechat.global.color
+    - -livechat.local.color
+    - -livechat.private.color
+    - -livechat.factionchat.ally.color
+    - -livechat.factionchat.private.color
+    - -livechat.colortag
+
 
 #*******************************************************
 #                   COLABORADORES
@@ -65,6 +72,11 @@ groups:
     - breport.read
     - breport.resolve
     - breport.unresolve
+    - livechat.staff
+    - livechat.staff.receive
+    - livechat.staff.send
+    - livechat.mute  
+    - lagmeter.command.lagmem  
 
 #*******************************************************
 #                   ADMINISTRADORES
@@ -96,6 +108,9 @@ groups:
     - essentials.enderchest.others
     - essentials.invsee
     - helppages.page.Admin
+    - breport.gotoreport
+    - livechat.block
+    - livechat.socialspy
 
 #*******************************************************
 #                   DUEÑOS
@@ -122,6 +137,7 @@ groups:
     - essentials.sethome.multiple.gold
     - essentials.tpahere 
     - helppages.page.VIP
+    - livechat.ignore
 
   g:essentials_diamond:
     permissions:
@@ -131,6 +147,11 @@ groups:
     - essentials.near
     - essentials.clearinventory
     - essentials.sethome.multiple.diamond
+    - livechat.global.color
+    - livechat.local.color
+    - livechat.private.color
+    - livechat.factionchat.ally.color
+    - livechat.factionchat.private.color
 
   g:essentials_emerald:
     permissions:
@@ -145,3 +166,4 @@ groups:
     - essentials.nick.color
     - essentials.nick.magic
     - essentials.sethome.multiple.emerald
+    - livechat.colortag

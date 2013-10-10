@@ -1,9 +1,13 @@
 &a------------------[ MENU DE AYUDA ]------------------
-&e[CHAT] /global, /local, /fc p, /fc a, /pm <jugador> <mensaje>
-&e[CHAT] /r 
+&a[CHAT]/global: &eCambia al canal de chat global.
+&a[CHAT]/local: &eCambia al canal de chat local. Solo los jugadores cercanos podran leerte.
+&a[CHAT]/pm <jugador> <mensaje>: &eEnvia un mensaje privado a otro jugador.
+&a[CHAT]/fc p: &eCambia al canal de chat privado de tu faccion.
+&a[CHAT]/fc a: &eCambia al canal de chat de aliados de tu faccion.
+&a[CHAT]/r <mensaje>: &eResponde rapidamente al ultimo jugador que te envio un mensaje.  
 &a[CHAT] /afk: &eIndica que estas ausente.
-&e[TELEPORT] /spawn  
-&a[TELEPORT] /warp [lugar]: &eTransportarte a mundos/lugares del servidor.
+&a[TELEPORT] /spawn_ &eTrasladate al punto de spawn del servidor.  
+&a[TELEPORT] /warp [lugar]: &eTransportate a mundos/lugares del servidor.
 &a[TELEPORT] /tpa <jugador>: &eEnvia una peticion a otro jugador para teletransportarte a el.
 &a[HOME] /sethome [nombre]: &eGuarda tu posicion actual para volver facilmente luego.
 &a[HOME] /home [nombre]: &eDesplazate a uno de tus home.

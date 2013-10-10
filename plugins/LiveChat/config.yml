@@ -1,0 +1,70 @@
+# 
+#  format: '%NAME%'
+auto-update-plugin: false
+default-chat: global
+convertalltolowercase: false
+censoring: true
+chat:
+  global:
+    format: '&7[&6Global&7] %FACTIONCOLOUR% %FACTIONTAG% %DISPLAYNAME%&7: &r%MSG%'
+  private:
+    format: '&7[%DISPLAYNAME% &7>> %TARGETDISPLAYNAME%&7] &r%MSG%'
+    enabled: true
+  map:
+    format: '&7[&b%WORLDNAME%&7] %DISPLAYNAME%&7: &r%MSG%'
+    enabled: true
+  local:
+    format: '&7[&2Local&7] %FACTIONCOLOUR% %FACTIONTAG% %DISPLAYNAME%&7: &r%MSG%'
+    radius: 150
+    enabled: true
+  emote:
+    format: '* %DISPLAYNAME%&r %MSG%'
+    enabled: true
+  plotme:
+    format: '&f[&9Plot&f] %DISPLAYNAME%&r %MSG%'
+    enabled: false
+  factionprivate:
+    format: '&a[FPrivate] %DISPLAYNAME%&r %MSG%'
+    enabled: true
+  factionally:
+    format: '&d[FAlly] %FACTIONCOLOUR% %FACTIONTAG% %DISPLAYNAME%&r %MSG%'
+    enabled: true
+  staff:
+    format: '&7[&9Staff&7] %DISPLAYNAME%&r %MSG%'
+    enabled: true
+  admin:
+    format: '&7[&4Admin&7] &c%NAME%&7: &r%MSG%'
+    enabled: true
+  socialspy:
+    format: '&7[&dSpy&7] &7[%DISPLAYNAME% &7>> %TARGETDISPLAYNAME%&7] %MSG%'
+    color: false
+head:
+  tag: false
+userlist:
+  format: '%SUFFIX% %NAME%'
+log:
+  global: true
+  private: true
+  admin: true
+  map: true
+  local: true
+  factionally: true
+  factionprivate: true
+  plotme: false
+  staff: true
+  emote: true
+  commands: true
+console:
+  color: true
+  debug:
+    global: true
+    private: true
+    admin: true
+    map: true
+    local: true
+    emote: true
+    factionprivate: true
+    factionally: true
+    plotme: false
+    staff: true
+    commands: true

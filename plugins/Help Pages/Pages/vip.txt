@@ -21,9 +21,8 @@
 &a/near: &eVer una lista de los jugadores cercanos a tu posicion.
 &a/clearinventory: &eBorra todo el contenido de tu inventario.
 &a/sethome <nombre del home>: &eEstablece hasta 5 home con su nombre.
-
-
 &aColores en el chat: &ePara colocar colores en el chat coloca el codigo correspondiente al color delante del texto. Puedes consultar la tabla de colores en la seccion "Informacion" del foro.
+
 &aCortar arboles: &ePara cortar un arbol facilmente rompe con un hacha el primer bloque del arbol.
 
 &e------------------&a[ EMERALD ]&e--------------------
