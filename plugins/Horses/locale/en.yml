@@ -1,0 +1,128 @@
+Command:
+  Buy:
+    Error:
+      Type: Escribe &b/horses &etypes para ver los tipos de caballos válidos.
+      InvalidHorseType: '&cNo existe un caballo de tipo %1$s &c.'
+      NoPermissionForThisType: '&cNo tienes permiso para comprar caballos de tipo
+        %1$s &c.'
+      WorldGuard:
+        CantUseBuyHere: '&cNo puedes comprar caballos en esta área.'
+      TooManyHorses: '&cNo puedes tener más de &b%1$d &ccaballos.'
+      AlreadyHaveAHorseWithThatName: '&cYa tienes un caballo llamado &b%s &c.'
+      CantAffordHorse: '&cNo puedes permitirte comprar un caballo de este tipo. Necesitas
+        $%.2f &c.'
+    Success:
+      BoughtHorse: '&eCompraste tu caballo por $%1$.2f &c.'
+      Completion: '&eEscribe &b/%1$s summon &3%2$s &epara invocar a tu caballo.'
+    Description: Compra un caballo de un tipo determinado
+  Delete:
+    Success:
+      DeletedHorse: '&eSe eliminó a &b%1$s &ede tu establo virtual.'
+    Description: Elimina un determinado caballo de tu establo virtual.
+  Dismiss:
+    Error:
+      NoActiveHorses: '&cDebes tener un caballo activo para guardarlo en tu establo.'
+      WorldGuard:
+        CantUseDismissHere: '&cNo puedes guardar a tu caballo en esta área.'
+    Description: Guarda un caballo en tu establo virtual.
+    Success:
+      DismissedHorse: '&eGuardaste a &b%1$s &een tu establo virtual.'
+  Heal:
+    Error:
+      HealAmountInvalid: Debes especificar un número completo.
+      NoActiveHorses: '&cDebes tener un caballo activo para curarlo.'
+      CantAffordHeal: '&cNo puedes permitirte curar a este caballo por &b%1$.2f&c.
+        &eNecesitas &b$%2$.2f'
+    Success:
+      HealedForCost: '&eCuraste &b%1$s &epor &b%2$.2f &epara &b$%3$.2f'
+      HealedWithoutCost: '&eCuraste a &b%1$s &epor &b%2$.2f &c.'
+    Description: Permite curar a tu caballo.
+  List:
+    Error:
+      InvalidCharactersPlayerName: Este jugador está offline o no existe.
+      NoPermissionToListPlayersHorses: '&cNo tienes permiso para ver los caballos
+        de otros jugadores.'
+      CouldNotFindPlayer: '&cNo se encontró un jugador llamado %s &c'
+      NoHorses: '&cNo tienes caballos.'
+    Success:
+      InitialMessage: '&eTus caballos: '
+      InitialMessageOtherPlayer: '&eCaballos de %1$s&c:'
+      HorseNamePrefix: '&b'
+      HorseTypePrefix: '&3'
+      HorseListSeparator: '&e, '
+    Description: Lista todos los caballos que tú/el jugador tiene en establos virtuales.
+  Reload:
+    Error:
+      FailedToReload: '&c~Error al recargar Horses, vea la consola para más detalles.'
+    Success: '&e~Recarga exitosa.'
+    Description: Recarga la configuración de Horses.
+  Rename:
+    Error:
+      RequireNametag: '&cNecesitas sostener un nametag para renombrar tu caballo.'
+    Success:
+      Renamed: '&eRenombraste a &b%1$s &ea &b%2$s &c.'
+    Description: Permite renombrar uno de tus caballos.
+  Summon:
+    Error:
+      NoLastActiveHorse: '&cNo tienes un último caballo activo disponible.'
+      OnDeathCooldown: '&b%1$s &cmurió recientemente, espera &b%2$d segundos.'
+      WorldGuard:
+        CantUseSummonHere: '&cNo puedes invocar caballos en esta área.'
+      AlreadySummoning: '&cYa invocaste un caballo.'
+      MovedWhileSummoning: '&cInvocación cancelada por moverte.'
+    Success:
+      SummoningHorse: '&eEstás invocando a &b%1$s&e. Espera &b%2$d &esegundos.'
+      SummonedHorse: '&eInvocaste a &b%1$s &e.'
+    Description: Invoca un caballo de tu establo.
+  Type:
+    Error:
+      NoHorsePerms: '&cNo tienes permiso para utilizar ningún tipo de caballo.'
+      NoPermForHorse: '&cNo tienes permiso para utilizar ningún tipo de caballo.'
+    BeginWith: '&eHorseTypes: '
+    HorseTypePrefix: '&b'
+    TypeSeparator: '&e, '
+    SingleTypeFormat: '&eType: &b%1$s &eHP: &b%2$.0f &eMaxHP: &b%3$.0f &eJumpStrength:
+      &b%4$.2f'
+    SingleTypeFormatEco: '&eType: &b%1$s &eHP: &b%2$.0f &eMaxHP: &b%3$.0f &eJumpStrength:
+      &b%4$.2f &eBuyCost: &b%5$.2f'
+    Description: Lista de todos los tipos de caballos que puedes comprar.
+Event:
+  Interact:
+    Error:
+      CantInteractWithThisHorse: '&cNo puedes interactuar con el caballo de &b%1$s
+        &c.'
+      RenameWithTagMustSetAName: '&cDebes asignar un nombre en tu Name Tag para renombrar
+        este caballo.'
+      ClaimWithTagMustSetAName: '&cDebes asignar un nombre en tu Name Tag para reclamar
+        este caballo.'
+      CantRenameWithTag: '&cNo tienes permitido renombrar caballos con name tags.'
+      RenamingNaturalHorsesBlocked: '&cSólo puedes renombrar caballos de tu propiedad.'
+  Damage:
+    Error:
+      CantHurtOthersHorses: '&cNo puedes herir caballos de otras personas.'
+  Death:
+    HorseDiedAndWasDeleted: '&b%1$s &efalleció y fue removido de tu establo.'
+  MovedTooFarAway: '&b%1$s &ese extravió y fue guardado en tu establo virtual.'
+Misc:
+  Command:
+    Error:
+      ConfigDenyPerm: '&cNo tienes permiso para utilizar el comando %1$s &c.'
+      HorseNameEmpty: '&cNo puedes tener caballos sin nombre.'
+      HorseNameTooLong: '&cLos nombres de los caballos no pueden tener más de &b%1$d
+        &ccaracteres de largo.'
+      CantUseColor: '&cNo tienes permisos para utilizar colores en el nombre de los
+        caballos.'
+      CantUseFormattingCodes: '&cNo tienes permiso para utilizar códigos de formato
+        en los nombres de los caballos.'
+      CantBeUsedFromConsole: '&cSólo puedes utilizar este comando como jugador.'
+      NoHorseNamed: '&cNo tienes un caballo llamado &e%1$s &c.'
+      InvalidName: No tienes un caballo llamado así.
+      NameValidCharacters: Los nombres de caballos sólo pueden contener letras, números y guiones bajos.
+      IllegalHorseNamePattern: '&cEste nombre contiene un patrón ilegal, prueba otro.'
+  Words:
+    Horse: Caballo
+    Name: Nombre
+    Type: Tipo
+    Player: Jugador
+    New: Nuevo
+    Amount: Cantidad

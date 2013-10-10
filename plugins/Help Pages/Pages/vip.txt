@@ -22,7 +22,6 @@
 &a/clearinventory: &eBorra todo el contenido de tu inventario.
 &a/sethome <nombre del home>: &eEstablece hasta 5 home con su nombre.
 &aColores en el chat: &ePara colocar colores en el chat coloca el codigo correspondiente al color delante del texto. Puedes consultar la tabla de colores en la seccion "Informacion" del foro.
-
 &aCortar arboles: &ePara cortar un arbol facilmente rompe con un hacha el primer bloque del arbol.
 
 &e------------------&a[ EMERALD ]&e--------------------
@@ -34,8 +33,8 @@
 &a/weather <sun/storm> [duracion]: &eEstablecer el clima del servidor.
 &a/thunder <true/false> [duracion]: &eEmpieza una tormenta con truenos.
 &a/sethome <nombre del home>: &eEstablece hasta 7 home con su nombre.
+&aAtrapar mobs peacefull: &ePara atrapar un mob(vacas/cerdos/pollos/ovejas/vacas setas/ocelotes/lobos)lanza un huevo normal contra ellos y obtendras un huevo de mob. Atrapar al mob o no dependera de ciertas probabilidades.
 
 
-&aAtrapar mobs peacefull: &ePara atrapar un mob(vacas/cerdos/pollos/ovejas)lanza un huevo normal contra ellos y obtendras un huevo de mob. Atrapar al mob o no dependera de ciertas probabilidades.
 &aPersonalizar el nombre de tu caballo: &eAgrega codigos de colores y/o formato al reclamar un caballo con un Name Tag como se explica en /help caballos.
 &a----------------------------------------------------
