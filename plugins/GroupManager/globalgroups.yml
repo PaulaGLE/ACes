@@ -28,6 +28,7 @@ groups:
     - -helppages.page.VIP
     - -helppages.page.Admin
     - -helppages.page.Mod
+    - breport.report  
 
 #*******************************************************
 #                   COLABORADORES
@@ -61,6 +62,9 @@ groups:
     - essentials.kick
     - essentials.kick.notify
     - helppages.page.Mod
+    - breport.read
+    - breport.resolve
+    - breport.unresolve
 
 #*******************************************************
 #                   ADMINISTRADORES

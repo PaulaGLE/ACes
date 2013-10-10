@@ -1,0 +1,8 @@
+Report-Length: 3
+levenshtein: 6
+ticket-display: 4
+join-message: true
+Mail:
+  use-mail: false
+  mail-host: localhost
+  mail-to: test@test.com
