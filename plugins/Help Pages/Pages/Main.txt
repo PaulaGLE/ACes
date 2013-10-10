@@ -13,7 +13,7 @@
 &a[ECONOMIA] /qs price
 &e[ECONOMIA] /qs find
 
-&c[SOPORTE ADMIN] /report
+&c[SOPORTE ADMIN] /report <mensaje>
 
 &b[OTROS] /help seguridad, /help facciones, /help tiendas  
 &b[OTROS] /help tiendavip /help parcelas, /help ascensores 

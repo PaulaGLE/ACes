@@ -1,0 +1,61 @@
+portals:
+  PvP:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -1067.0,20.0,160.0:-1063.0,24.0,160.0
+    world: world
+    destination: e:PvP:172.0,74.0,401.0:0.0:0.0
+  Parcelas:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -1054.0,20.0,160.0:-1050.0,24.0,160.0
+    world: world
+    destination: e:Parcelas:23.0,67.0,0.0:0.0:0.0
+  Recursos:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -1041.0,20.0,160.0:-1037.0,24.0,160.0
+    world: world
+    destination: e:Recursos:87.0,64.0,506.0:0.0:0.0
+  Nether:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -1028.0,20.0,160.0:-1024.0,24.0,160.0
+    world: world
+    destination: e:world_nether:-32.0,60.0,-88.0:0.0:0.0
+  End:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -1015.0,20.0,160.0:-1011.0,24.0,160.0
+    world: world
+    destination: e:world_the_end:-456.0,71.0,146.0:0.0:0.0
+  TPSpawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: PhoenixAS
+    location: -517.0,43.0,108.0:-514.0,47.0,108.0
+    world: world
+    destination: e:world:-568.0,43.0,162.0:0.0:0.0
