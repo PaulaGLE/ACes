@@ -1525,3 +1525,151 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.chat.Chat
 2013-10-10 01:09:58 [INFO] Done (4,574s)! For help, type "help" or "?"
 2013-10-10 01:10:00 [SEVERE] Reached end of stream for null
 2013-10-10 01:10:00 [INFO] [Citizens] Loaded 10 NPCs.
+2013-10-10 14:54:00 [INFO] Starting minecraft server version 1.6.2
+2013-10-10 14:54:00 [INFO] Loading properties
+2013-10-10 14:54:00 [INFO] Default game type: SURVIVAL
+2013-10-10 14:54:00 [INFO] Generating keypair
+2013-10-10 14:54:01 [INFO] Starting Minecraft server on *:25565
+2013-10-10 14:54:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-22-gcea8f29-b2811jnks (MC: 1.6.2) (Implementing API version 1.6.2-R0.1-SNAPSHOT)
+2013-10-10 14:54:02 [INFO] [LagMeter] Loading LagMeter v1.14.1
+2013-10-10 14:54:02 [INFO] [AutoMessage] Loading AutoMessage v2.3.4
+2013-10-10 14:54:02 [INFO] [GroupManager] Loading GroupManager v2.0 (2.11.1) (Phoenix)
+2013-10-10 14:54:02 [INFO] [WorldEdit] Loading WorldEdit v5.5.7
+2013-10-10 14:54:02 [INFO] [TagAPI] Loading TagAPI v2.5
+2013-10-10 14:54:02 [INFO] [PointShop] Loading PointShop v2.0.1
+2013-10-10 14:54:02 [INFO] [PlayerLogger] Loading PlayerLogger v2.9.1
+2013-10-10 14:54:02 [INFO] [mcore] Loading mcore v6.5.0
+2013-10-10 14:54:02 [INFO] [Vault] Loading Vault v1.2.25-b333
+2013-10-10 14:54:02 [INFO] [bReport] Loading bReport v1.5.8
+2013-10-10 14:54:02 [INFO] [PlayerPoints] Loading PlayerPoints v1.6
+2013-10-10 14:54:02 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2013-10-10 14:54:02 [INFO] [DeathMessages] Loading DeathMessages v2.6.1
+2013-10-10 14:54:02 [INFO] [Help Pages] Loading Help Pages v1.1
+2013-10-10 14:54:02 [INFO] [WorldGuard] Loading WorldGuard v5.7.5
+2013-10-10 14:54:02 [INFO] [Essentials] Loading Essentials v2.11.1
+2013-10-10 14:54:02 [INFO] [Citizens] Loading Citizens v2.0.9-SNAPSHOT (build 912)
+2013-10-10 14:54:02 [INFO] [EssentialsProtect] Loading EssentialsProtect v2.11.1
+2013-10-10 14:54:02 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.11.1
+2013-10-10 14:54:02 [INFO] [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+2013-10-10 14:54:02 [INFO] [EssentialsChat] Loading EssentialsChat v2.11.1
+2013-10-10 14:54:02 [INFO] [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.11.1
+2013-10-10 14:54:02 [INFO] [Factions] Loading Factions v2.0.3
+2013-10-10 14:54:02 [INFO] [LiveChat] Loading LiveChat v3.8
+2013-10-10 14:54:02 [INFO] [CombatLog] Loading CombatLog v1.8.11
+2013-10-10 14:54:02 [INFO] [mcore] Enabling mcore v6.5.0
+2013-10-10 14:54:02 [INFO] [mcore 6.5.0] === ENABLE START ===
+2013-10-10 14:54:02 [INFO] [mcore 6.5.0] §eSetup of SenderIdMixinDefault took §d4§ems.
+2013-10-10 14:54:02 [INFO] [mcore 6.5.0] === ENABLE §aCOMPLETE §e(Took §d86ms§e) ===
+2013-10-10 14:54:02 [INFO] [Vault] Enabling Vault v1.2.25-b333
+2013-10-10 14:54:02 [INFO] [Vault][Economy] Essentials Economy found: Waiting
+2013-10-10 14:54:02 [INFO] [Vault][Permission] GroupManager found: Waiting
+2013-10-10 14:54:02 [INFO] [Vault][Permission] SuperPermissions loaded as backup permission system.
+2013-10-10 14:54:02 [INFO] [Vault][Chat] GroupManager found: Waiting
+2013-10-10 14:54:02 [INFO] [Vault] Enabled Version 1.2.25-b333
+2013-10-10 14:54:02 [INFO] [mcore 6.5.0] §aActivated §eintegration with §dVault
+2013-10-10 14:54:02 [INFO] [Vault][Economy] Essentials Economy hooked.
+2013-10-10 14:54:02 [INFO] [Vault][Permission] GroupManager hooked.
+2013-10-10 14:54:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2013-10-10 14:54:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2013-10-10 14:54:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2013-10-10 14:54:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2013-10-10 14:54:02 [INFO] Preparing level "world"
+2013-10-10 14:54:02 [INFO] Preparing start region for level 0 (Seed: -6281237076763550195)
+2013-10-10 14:54:03 [INFO] Preparing start region for level 1 (Seed: 71871138010957017)
+2013-10-10 14:54:03 [INFO] Preparing start region for level 2 (Seed: 4221652421035700732)
+2013-10-10 14:54:04 [INFO] [LagMeter] Enabling LagMeter v1.14.1
+2013-10-10 14:54:04 [INFO] [LagMeter] Not using logs folder.
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mEnabled! Polling every 40 server ticks. Logging to D:\Proyectos\ACes\plugins\LagMeter\lag.log.[m
+2013-10-10 14:54:04 [INFO] package main.java.com.webkonsept.minecraft.lagmeter.exceptionsInvalidTimeFormatException: The time for the uptime command }7d2m is invalid: the time string contains characters other than 0-9, w/d/h/m/s.
+2013-10-10 14:54:04 [INFO] package main.java.com.webkonsept.minecraft.lagmeter.exceptionsInvalidTimeFormatException: The time for the uptime command }12h30m30s is invalid: the time string contains characters other than 0-9, w/d/h/m/s.
+2013-10-10 14:54:04 [INFO] package main.java.com.webkonsept.minecraft.lagmeter.exceptionsInvalidTimeFormatException: The time for the uptime command }30m is invalid: the time string contains characters other than 0-9, w/d/h/m/s.
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mChunks loaded:[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world": 625.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world_nether": 625.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world_the_end": 625.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mTotal chunks loaded: 1875[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mEntities:[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world": 256.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world_nether": 44.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mWorld "world_the_end": 96.[m
+2013-10-10 14:54:04 [INFO] [0;33;22m[LagMeter 1.14.1] [0;32;1mTotal entities: 396[m
+2013-10-10 14:54:04 [INFO] [AutoMessage] Enabling AutoMessage v2.3.4
+2013-10-10 14:54:04 [INFO] [GroupManager] Enabling GroupManager v2.0 (2.11.1) (Phoenix)
+2013-10-10 14:54:04 [INFO] GroupManager version 2.0 (2.11.1) (Phoenix) is enabled!
+2013-10-10 14:54:04 [INFO] [Vault][Chat] GroupManager - Chat hooked.
+2013-10-10 14:54:04 [INFO] [WorldEdit] Enabling WorldEdit v5.5.7
+2013-10-10 14:54:04 [INFO] WEPIF: GroupManager detected! Using GroupManager for permissions.
+2013-10-10 14:54:04 [INFO] [TagAPI] Enabling TagAPI v2.5
+2013-10-10 14:54:04 [INFO] [TagAPI] Using hooks for CraftBukkit v1_6_R2
+2013-10-10 14:54:04 [INFO] [PointShop] Enabling PointShop v2.0.1
+2013-10-10 14:54:04 [INFO] [PointShop] PlayerPoints found.
+2013-10-10 14:54:04 [INFO] [PointShop] Vault found.
+2013-10-10 14:54:04 [INFO] [PointShop] v2.0.1 is now enabled
+2013-10-10 14:54:04 [INFO] [PlayerLogger] Enabling PlayerLogger v2.9.1
+2013-10-10 14:54:04 [INFO] [bReport] Enabling bReport v1.5.8
+2013-10-10 14:54:04 [INFO] [bReport] Enabled
+2013-10-10 14:54:04 [INFO] [PlayerPoints] Enabling PlayerPoints v1.6
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2013-10-10 14:54:04 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: FLAT & seed: -6281237076763550195
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 71871138010957017
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 4221652421035700732
+2013-10-10 14:54:04 [INFO] [Multiverse-Core] Loading World & Settings - 'PvP' - Env: NORMAL - Type: NORMAL & seed: 8347505475997716586
+2013-10-10 14:54:04 [INFO] Preparing start region for level 3 (Seed: 8347505475997716586)
+2013-10-10 14:54:05 [INFO] [Multiverse-Core] 4 - World(s) loaded.
+2013-10-10 14:54:05 [INFO] [DeathMessages] Enabling DeathMessages v2.6.1
+2013-10-10 14:54:05 [INFO] <<[ DeathMessages ]>>  [ Version ]=[ 2.6.1 ] [ Successfully Loaded! ]
+2013-10-10 14:54:05 [INFO] [Help Pages] Enabling Help Pages v1.1
+2013-10-10 14:54:05 [INFO] [WorldGuard] Enabling WorldGuard v5.7.5
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world) TNT ignition is PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world) Lighters are PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world) Lava fire is blocked.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world) Fire spread is UNRESTRICTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] Loaded configuration for world 'world'
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_nether) Lighters are PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_nether) Lava fire is blocked.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] Loaded configuration for world 'world_nether'
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_the_end) Lighters are PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_the_end) Lava fire is blocked.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] Loaded configuration for world 'world_the_end'
+2013-10-10 14:54:05 [INFO] [WorldGuard] (PvP) TNT ignition is PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (PvP) Lighters are PERMITTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (PvP) Lava fire is blocked.
+2013-10-10 14:54:05 [INFO] [WorldGuard] (PvP) Fire spread is UNRESTRICTED.
+2013-10-10 14:54:05 [INFO] [WorldGuard] Loaded configuration for world 'PvP'
+2013-10-10 14:54:05 [INFO] [WorldGuard] 43 regions loaded for 'world'
+2013-10-10 14:54:05 [INFO] [WorldGuard] 2 regions loaded for 'world_nether'
+2013-10-10 14:54:05 [INFO] [WorldGuard] 6 regions loaded for 'world_the_end'
+2013-10-10 14:54:05 [INFO] [WorldGuard] 3 regions loaded for 'PvP'
+2013-10-10 14:54:05 [INFO] [Essentials] Enabling Essentials v2.11.1
+2013-10-10 14:54:05 [INFO] Essentials: Using GroupManager based permissions.
+2013-10-10 14:54:05 [INFO] [Citizens] Enabling Citizens v2.0.9-SNAPSHOT (build 912)
+2013-10-10 14:54:06 [SEVERE] [Citizens] Missing preferred location bundle.
+2013-10-10 14:54:06 [INFO] [EssentialsProtect] Enabling EssentialsProtect v2.11.1
+2013-10-10 14:54:06 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.11.1
+2013-10-10 14:54:06 [INFO] [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+2013-10-10 14:54:06 [INFO] [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+2013-10-10 14:54:06 [INFO] [Multiverse-Portals]  4 - Portals(s) loaded
+2013-10-10 14:54:06 [INFO] [EssentialsChat] Enabling EssentialsChat v2.11.1
+2013-10-10 14:54:06 [INFO] [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.11.1
+2013-10-10 14:54:06 [INFO] [Factions] Enabling Factions v2.0.3
+2013-10-10 14:54:06 [INFO] [0;36;22m[[0;36;1mFactions 2.0.3[0;36;22m] [0;33;1m=== ENABLE START ===[m
+2013-10-10 14:54:06 [INFO] [0;36;22m[[0;36;1mFactions 2.0.3[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m313ms[0;33;1m) ===[m
+2013-10-10 14:54:06 [INFO] [LiveChat] Enabling LiveChat v3.8
+2013-10-10 14:54:06 [INFO] [LiveChat] Hey there! I am using LiveChat
+2013-10-10 14:54:06 [INFO] [CombatLog] Enabling CombatLog v1.8.11
+2013-10-10 14:54:06 [INFO] [CombatLog] Loading messages.properties.
+2013-10-10 14:54:06 [INFO] [CombatLog] Loading config.yml.
+2013-10-10 14:54:06 [INFO] [0;31;1m[CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.[m
+2013-10-10 14:54:06 [INFO] [CombatLog] CombatLog v1.8.11 Enabled.
+2013-10-10 14:54:06 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-10-10 14:54:06 [INFO] Done (4,388s)! For help, type "help" or "?"
+2013-10-10 14:54:09 [INFO] [Metrics] Connection reset
+2013-10-10 14:54:09 [SEVERE] Reached end of stream for null
+2013-10-10 14:54:09 [INFO] [Citizens] Loaded 10 NPCs.
+2013-10-10 14:54:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?

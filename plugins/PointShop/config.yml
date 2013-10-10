@@ -1,0 +1,485 @@
+# List of buyable things and other configurable things
+DontAddDefaults: true
+Sign:
+  AutoPrice: true
+  Text: '[PointShop]'
+Vault:
+  Enabled: true
+Economy:
+  Enabled: false
+  Failed: Acción fallida.
+  NotEnoughMoney: No tienes puntos suficientes.
+  MoneyForOnePoint: 1
+  PointsForOneMoney: 1
+SellItem:
+  Wood:
+    Price: 250
+    ID: 5
+    Amount: 64
+Item:
+  Enderchest:
+    Price: 7
+    ID: 130
+    Amount: 1
+  Sponge:
+    Price: 10
+    ID: 19
+    Amount: 1    
+  Beacon:
+    Price: 1000
+    ID: 138
+    Amount: 1     
+  NetherStar:
+    Price: 800
+    ID: 399
+    Amount: 1      
+  Mycelium:
+    Price: 9
+    ID: 110
+    Amount: 1 
+  GoldenApple:
+    Price: 15
+    ID: 322
+    Amount: 1
+  EnGoldenApple:
+    Price: 45
+    ID: 322
+    Amount: 1
+    Damage: '1'      
+  Saddle:
+    Price: 5
+    ID: 329
+    Amount: 1 
+  IHorseArmor:
+    Price: 30
+    ID: 417
+    Amount: 1      
+  GHorseArmor:
+    Price: 60
+    ID: 418
+    Amount: 1      
+  DHorseArmor:
+    Price: 120
+    ID: 419
+    Amount: 1           
+  CD13:
+    Price: 20
+    ID: 2256
+    Amount: 1     
+  CDCat:
+    Price: 20
+    ID: 2257
+    Amount: 1  
+  CDBlocks:
+    Price: 50
+    ID: 2258
+    Amount: 1   
+  CDChirp:
+    Price: 50
+    ID: 2259
+    Amount: 1     
+  CDFar:
+    Price: 50
+    ID: 2260
+    Amount: 1      
+  CDMall:
+    Price: 50
+    ID: 2261
+    Amount: 1     
+  CDMellohi:
+    Price: 50
+    ID: 2262
+    Amount: 1      
+  CDStal:
+    Price: 50
+    ID: 2263
+    Amount: 1  
+  CDStrad:
+    Price: 50
+    ID: 2264
+    Amount: 1 
+  CDWard:
+    Price: 50
+    ID: 2265
+    Amount: 1 
+  CD11:
+    Price: 50
+    ID: 2266
+    Amount: 1  
+  CDWait:
+    Price: 50
+    ID: 2267
+    Amount: 1   
+  TNT:
+    Price: 20
+    ID: 46
+    Amount: 1
+  Slimeball:
+    Price: 12
+    ID: 341
+    Amount: 1 
+  GhastTear:
+    Price: 60
+    ID: 370
+    Amount: 1               
+  BlazePowder:
+    Price: 15
+    ID: 377
+    Amount: 1     
+  MagmaCream:
+    Price: 25
+    ID: 378
+    Amount: 1   
+  FermSpiderEye:
+    Price: 4
+    ID: 376
+    Amount: 1      
+  EnderPearl:
+    Price: 5
+    ID: 368
+    Amount: 1     
+  EyeofEnder:
+    Price: 20
+    ID: 381
+    Amount: 1    
+  NetherWart:
+    Price: 2
+    ID: 372
+    Amount: 1 
+  FireCharge:
+    Price: 50
+    ID: 385
+    Amount: 1   
+  FireworkRocket:
+    Price: 10
+    ID: 401
+    Amount: 1     
+  GlistMelon:
+    Price: 5
+    ID: 382
+    Amount: 1       
+  GoldenCarrot:
+    Price: 5
+    ID: 396
+    Amount: 1      
+  EndPortal:
+    Price: 150
+    ID: 120
+    Amount: 1     
+  EnchTable:
+    Price: 7
+    ID: 116
+    Amount: 1
+  PotRegenerat:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8257'      
+  PotSwiftness:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8258'      
+  PotFireResist:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8259' 
+  PotPoison:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8260'    
+  PotHealingII:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8229'        
+  PotNightVision:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8262'     
+  PotWeakness:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8264'
+  PotStrenght:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8265'
+  PotSlowness:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8266'          
+  PotHarmingII:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8236'    
+  PotInvisib:
+    Price: 150
+    ID: 373
+    Amount: 1
+    Damage: '8270'     
+  OcelotEgg:
+    Price: 200
+    ID: 383
+    Amount: 1
+    Damage: '98'     
+  WolfEgg:
+    Price: 200
+    ID: 383
+    Amount: 1
+    Damage: '95'      
+  HorseEgg:
+    Price: 200
+    ID: 383
+    Amount: 1
+    Damage: '100'  
+  VillagerEgg:
+    Price: 200
+    ID: 383
+    Amount: 1
+    Damage: '120'
+  StickyPiston:
+    Price: 20
+    ID: 29
+    Amount: 1       
+  Anvil:
+    Price: 5
+    ID: 145
+    Amount: 1  
+  Diamond:
+    Price: 10
+    ID: 264
+    Amount: 1     
+  Emerald:
+    Price: 16
+    ID: 388
+    Amount: 1 
+  ChainHelmet:
+    Price: 15
+    ID: 302
+    Amount: 1    
+  ChainChestplate:
+    Price: 15
+    ID: 303
+    Amount: 1  
+  ChainLeggings:
+    Price: 15
+    ID: 304
+    Amount: 1  
+  ChainBoots:
+    Price: 15
+    ID: 305
+    Amount: 1  
+Cmd:
+  FullHelmet:
+    Price: 1000
+    Message: Compraste un casco full.
+    Cmd: kit fullhelmet %player%
+  FullChestp:
+    Price: 1500
+    Message: Compraste un peto full.
+    Cmd: kit fullchestplate %player%
+  FullLegg:
+    Price: 1000
+    Message: Compraste unos pantalones full.
+    Cmd: kit fullleggings %player%
+  FullBoots:
+    Price: 1000
+    Message: Compraste unas botas full.
+    Cmd: kit fullboots %player%
+  FullSword:
+    Price: 1500
+    Message: Compraste una espada full.
+    Cmd: kit fullsword %player% 
+  FullBow:
+    Price: 1500
+    Message: Compraste un arco full.
+    Cmd: kit fullbow %player%  
+  FullPickaxe:
+    Price: 600
+    Message: Compraste un pico full.
+    Cmd: kit fullpickaxe %player%  
+  FullShovel:
+    Price: 600
+    Message: Compraste una pala full.
+    Cmd: kit fullshovel %player% 
+  FullAxe:
+    Price: 600
+    Message: Compraste un hacha full.
+    Cmd: kit fullaxe %player%  
+  BookProt4:
+    Price: 500
+    Message: Compraste un libro de Protection IV.
+    Cmd: give %player% enchantedbook 1 protection 4        
+  BookFireProt4:
+    Price: 500
+    Message: Compraste un libro de Fire Protection IV.
+    Cmd: give %player% enchantedbook 1 fireprotection 4         
+  BookFeathFall4:
+    Price: 500
+    Message: Compraste un libro de Feather Falling IV.
+    Cmd: give %player% enchantedbook 1 featherfalling 4     
+  BookBlastProt4:
+    Price: 500
+    Message: Compraste un libro de Blast Protection IV.
+    Cmd: give %player% enchantedbook 1 blastprotection 4  
+  BookProjProt4:
+    Price: 500
+    Message: Compraste un libro de Projectile Protection IV.
+    Cmd: give %player% enchantedbook 1 projectileprotection 4  
+  BookRespir3:
+    Price: 500
+    Message: Compraste un libro de Respiration III.
+    Cmd: give %player% enchantedbook 1 respiration 3       
+  BookAquaAff1:
+    Price: 500
+    Message: Compraste un libro de Aqua Affinity I.
+    Cmd: give %player% enchantedbook 1 aquaaffinity 1 
+  BookThorns3:
+    Price: 500
+    Message: Compraste un libro de Thorns III.
+    Cmd: give %player% enchantedbook 1 thorns 3      
+  BookSmite5:
+    Price: 500
+    Message: Compraste un libro de Smite V.
+    Cmd: give %player% enchantedbook 1 smite 5             
+  BookSharp5:
+    Price: 500
+    Message: Compraste un libro de Sharpness V.
+    Cmd: give %player% enchantedbook 1 sharpness 5        
+  BookBaneArth5:
+    Price: 500
+    Message: Compraste un libro de Bane of Arthropods V.
+    Cmd: give %player% enchantedbook 1 baneofarthropods 5    
+  BookKnock2:
+    Price: 500
+    Message: Compraste un libro de Knockback II.
+    Cmd: give %player% enchantedbook 1 knockback 2  
+  BookFireAsp2:
+    Price: 500
+    Message: Compraste un libro de Fire Aspect 2.
+    Cmd: give %player% enchantedbook 1 fireaspect 2   
+  BookLooting3:
+    Price: 500
+    Message: Compraste un libro de Looting III.
+    Cmd: give %player% enchantedbook 1 looting 3       
+  BookEffic5:
+    Price: 500
+    Message: Compraste un libro de Efficiency V.
+    Cmd: give %player% enchantedbook 1 efficiency 5 
+  BookSilkTouch1:
+    Price: 500
+    Message: Compraste un libro de Silk Touch I.
+    Cmd: give %player% enchantedbook 1 silktouch 1       
+  BookUnbreak3:
+    Price: 500
+    Message: Compraste un libro de Unbreaking III.
+    Cmd: give %player% enchantedbook 1 unbreaking 3  
+  BookFortune3:
+    Price: 500
+    Message: Compraste un libro de Fortune III.
+    Cmd: give %player% enchantedbook 1 fortune 3                 
+  BookPower5:
+    Price: 500
+    Message: Compraste un libro de Power V.
+    Cmd: give %player% enchantedbook 1 power 5     
+  BookPunch2:
+    Price: 500
+    Message: Compraste un libro de Punch II.
+    Cmd: give %player% enchantedbook 1 punch 2       
+  BookFlame1:
+    Price: 500
+    Message: Compraste un libro de Flame I.
+    Cmd: give %player% enchantedbook 1 flame 1                         
+  BookInfinity1:
+    Price: 500
+    Message: Compraste un libro de Infinity I.
+    Cmd: give %player% enchantedbook 1 infinity 1   
+    
+    
+                   
+#CmdSet:
+#  Stupid:
+    #Cmds:
+    #- freeze %player%
+    #- ban %player%
+    #- mute %player%
+    #- slay %player%
+    #Price: 0
+    #Message: LOL YOU ARE STUPID xD
+#DCmd:
+  #Op:
+    #Price: 10000
+    #Message1: You are now OP for a day
+    #Message2: You are no longer OP
+    #Cmd1: op %player%
+    #Cmd2: deop %player%
+    #Time: 86400
+#Perm:
+  #BuyItem:
+    #PermissionsNode: PointShop.buy.Item
+    #Price: 250
+    #Message: Successfully bought the Permissions Node %PermissionsNode%
+    #GlobalPermission: true
+#PermSet:
+  #Trade:
+    #PermissionsNodes:
+    #- PointShop.buy.Points
+    #- PointShop.buy.Money
+    #Price: 400
+    #Message: 'Successfully bought the Permissions Set %name% '
+    #GlobalPermission: true
+#TimePerm:
+  #VipII:
+    #PermissionsNodes:
+    #- Commandbin.god
+    #- Commandbin.heal
+    #- Commandbin.feed
+    #Price: 5000
+    #Time: 604800
+    #Message: You are now VipII for a week
+    #GlobalPermission: true
+  #Message: Your TimePerm is out (%name%)
+List:
+  Cmd:
+  - fullhelmet
+  DCmd:
+  - Op
+  CmdSet:
+  - Stupid
+  Item:
+  - Name
+  - GreenWool
+  - Supersword
+  SellItem:
+  - Diamond
+  - Wood
+  ItemSet:
+  - Nether
+  - Cheater
+  Perm:
+  - BuyItem
+  PermSet:
+  - Trade
+  TimePerm:
+  - VipII
+  Message: /pshop list <cmd/dcmd/cmdset/item/sellItem/itemset/perm/permSet/timePerm>
+Disable:
+  Cmd: false
+  CmdSet: true
+  DCmd: false
+  Item: false
+  SellItem: false
+  ItemSet: false
+  Money: false
+  Perm: true
+  PermSet: false
+  Points: false
+  TimePerm: false
