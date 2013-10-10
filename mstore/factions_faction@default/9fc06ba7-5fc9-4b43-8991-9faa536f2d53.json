@@ -1,0 +1,17 @@
+{
+  "name": "VengadoresX",
+  "createdAtMillis": 1377956154613,
+  "home": {
+    "w": "PvP",
+    "lx": 214.21866528067363,
+    "ly": 63.0,
+    "lz": -410.07667142015816,
+    "p": 2.1000447,
+    "y": -359.39984
+  },
+  "relationWishes": {
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ALLY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ALLY",
+    "b7dff8e9-02ea-45d6-ad57-055f2b4ecf1c": "ENEMY"
+  }
+}

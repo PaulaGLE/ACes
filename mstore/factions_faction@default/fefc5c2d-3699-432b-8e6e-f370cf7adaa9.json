@@ -1,0 +1,13 @@
+{
+  "name": "Elite",
+  "description": "Ellos nos vieron nacer,pero jamas nos veran morir.",
+  "createdAtMillis": 1377627796330,
+  "invitedPlayerIds": [
+    "augustomen",
+    "carlosssm",
+    "srcanario"
+  ],
+  "relationWishes": {
+    "c734cd33-9f11-43bb-aa7c-39350b20598f": "ALLY"
+  }
+}

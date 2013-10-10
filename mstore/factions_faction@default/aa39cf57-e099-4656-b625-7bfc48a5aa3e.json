@@ -1,0 +1,25 @@
+{
+  "name": "YouTubers",
+  "createdAtMillis": 1377977085018,
+  "home": {
+    "w": "PvP",
+    "lx": 618.6999999880791,
+    "ly": 63.0,
+    "lz": 462.69999998807907,
+    "p": 7.200015,
+    "y": -185.10132
+  },
+  "invitedPlayerIds": [
+    "bastian_l9",
+    "hammet",
+    "woolf"
+  ],
+  "relationWishes": {
+    "ec3b6472-d165-4899-8259-e00156a86775": "ALLY",
+    "6e04a659-685e-4fae-8f06-09882e8861b2": "ALLY",
+    "843fc3d8-028b-4630-949b-92853d7a6461": "ALLY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ALLY",
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "ALLY",
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ALLY"
+  }
+}

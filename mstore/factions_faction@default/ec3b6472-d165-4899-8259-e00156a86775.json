@@ -1,0 +1,24 @@
+{
+  "name": "RedFaction",
+  "createdAtMillis": 1377951831170,
+  "home": {
+    "w": "PvP",
+    "lx": 173.3213288699374,
+    "ly": 103.0,
+    "lz": 29.553435878957053,
+    "p": 90.0,
+    "y": 88.6432
+  },
+  "invitedPlayerIds": [
+    "igabhd",
+    "nessfan4"
+  ],
+  "relationWishes": {
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "ALLY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ALLY",
+    "3de3735b-ba9b-47d2-93ef-3cd612f6abe2": "ALLY",
+    "1c1a0669-13a8-4cc8-9a6b-9883d4ab230c": "ENEMY",
+    "efaea696-204b-4664-9b4f-c724962e06c9": "ALLY",
+    "c002f70e-18f1-473b-a8d4-388f0579c041": "ALLY"
+  }
+}

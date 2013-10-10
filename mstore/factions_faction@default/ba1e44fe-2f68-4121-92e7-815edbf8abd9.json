@@ -1,0 +1,19 @@
+{
+  "name": "Titanes",
+  "description": "Azul Color Titan",
+  "createdAtMillis": 1377642210532,
+  "home": {
+    "w": "PvP",
+    "lx": 1180.0979600201645,
+    "ly": 63.0,
+    "lz": 231.79681025827114,
+    "p": 15.45018,
+    "y": 87.73779
+  },
+  "relationWishes": {
+    "bea7545e-e6fb-4c03-92ec-432a1ec25e2f": "ALLY",
+    "9f684945-12f1-4587-b252-51f922d7ce7f": "ENEMY",
+    "d5729039-d8d5-4011-bfc5-2ffffc748f5d": "ALLY",
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ALLY"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DhirThines",
+  "description": "Todo es verdad, nada está permitido.",
+  "createdAtMillis": 1377474466526,
+  "home": {
+    "w": "PvP",
+    "lx": 2945.5536503047583,
+    "ly": 57.5,
+    "lz": 2789.5130622344227,
+    "p": 86.70004,
+    "y": -91.7997
+  },
+  "relationWishes": {
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ALLY"
+  }
+}

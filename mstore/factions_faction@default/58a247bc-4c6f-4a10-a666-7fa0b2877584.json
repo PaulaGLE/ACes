@@ -1,0 +1,37 @@
+{
+  "name": "AssasinsCreed",
+  "createdAtMillis": 1377647291783,
+  "home": {
+    "w": "PvP",
+    "lx": 2265.9380539700273,
+    "ly": 16.0,
+    "lz": -450.5210613230863,
+    "p": 17.99995,
+    "y": 90.29816
+  },
+  "invitedPlayerIds": [
+    "brayanhd",
+    "darkdeak1029",
+    "maxi"
+  ],
+  "relationWishes": {
+    "1880a6dd-03d8-47a2-bcc1-40a854b74893": "ENEMY",
+    "9f684945-12f1-4587-b252-51f922d7ce7f": "ENEMY",
+    "bea7545e-e6fb-4c03-92ec-432a1ec25e2f": "ALLY",
+    "4488f7a9-a484-44f9-8f7c-f9ec2118a8a8": "ALLY",
+    "da7fd001-f550-4caa-86e6-3e7833d7ad0d": "ENEMY",
+    "ba1e44fe-2f68-4121-92e7-815edbf8abd9": "ALLY",
+    "04dff969-1c94-45ba-aa36-853aee847595": "ENEMY",
+    "159d23a4-1e69-4037-a8f6-4d3300e3479f": "ALLY",
+    "404a8580-20f9-4cca-9f94-2408bfc662a9": "ALLY",
+    "65207a31-eb03-44fc-93c9-58b952818d14": "ALLY",
+    "68b53555-36e1-482d-a0a8-a385e54e0870": "ENEMY",
+    "9fc06ba7-5fc9-4b43-8991-9faa536f2d53": "ALLY",
+    "6e04a659-685e-4fae-8f06-09882e8861b2": "ENEMY",
+    "d5729039-d8d5-4011-bfc5-2ffffc748f5d": "ALLY",
+    "c6997357-bcdf-4a42-85bc-08b3cbb62239": "ENEMY",
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "ALLY",
+    "62c35fc9-2781-4975-bb30-2be6eb21f0ae": "ALLY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ALLY"
+  }
+}

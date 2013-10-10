@@ -1,0 +1,8 @@
+{
+  "name": "lospro",
+  "createdAtMillis": 1377747408472,
+  "relationWishes": {
+    "bea7545e-e6fb-4c03-92ec-432a1ec25e2f": "ENEMY",
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "ALLY"
+  }
+}

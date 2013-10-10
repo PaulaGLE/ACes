@@ -1,0 +1,28 @@
+{
+  "name": "RedBull",
+  "createdAtMillis": 1377981135194,
+  "home": {
+    "w": "PvP",
+    "lx": 415.3871899680319,
+    "ly": 58.0,
+    "lz": 46.441167265001646,
+    "p": 7.701133,
+    "y": -313.81537
+  },
+  "invitedPlayerIds": [
+    "asassins17",
+    "maxi0170",
+    "mrtousenx",
+    "razor",
+    "traux"
+  ],
+  "relationWishes": {
+    "9fc06ba7-5fc9-4b43-8991-9faa536f2d53": "ENEMY",
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "ALLY",
+    "a38b0103-19c8-4e50-89a3-51f7f2bdf5a2": "ALLY",
+    "803c131a-0a4e-4dd2-ac48-0c4cc6a1ec75": "ENEMY",
+    "c6997357-bcdf-4a42-85bc-08b3cbb62239": "ALLY",
+    "e9830feb-c6b0-4706-a659-cc1c1f980348": "ALLY",
+    "ec3b6472-d165-4899-8259-e00156a86775": "ALLY"
+  }
+}

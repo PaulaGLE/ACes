@@ -1,0 +1,18 @@
+{
+  "name": "sombra",
+  "description": "...",
+  "createdAtMillis": 1379165495132,
+  "home": {
+    "w": "PvP",
+    "lx": 5776.335424456251,
+    "ly": 133.0,
+    "lz": 294.08423059398655,
+    "p": 20.155085,
+    "y": 274.63416
+  },
+  "relationWishes": {
+    "fd93bf3e-65ec-4b51-af32-43e6d97c4087": "ENEMY",
+    "73f5f344-afba-4cd7-aed7-0bc3425a1f4d": "TRUCE",
+    "6c1d67cb-ad40-49d0-b07e-3455a558490e": "ENEMY"
+  }
+}

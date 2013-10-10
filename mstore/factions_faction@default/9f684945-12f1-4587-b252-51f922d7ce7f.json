@@ -1,0 +1,28 @@
+{
+  "name": "TheBullets",
+  "description": "Como siempre, mantente alejado.",
+  "createdAtMillis": 1377702936440,
+  "home": {
+    "w": "PvP",
+    "lx": 2030.3261408351768,
+    "ly": 58.0,
+    "lz": 425.0890924905678,
+    "p": 30.750053,
+    "y": -0.6265259
+  },
+  "invitedPlayerIds": [
+    "wambiee"
+  ],
+  "relationWishes": {
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ENEMY",
+    "4488f7a9-a484-44f9-8f7c-f9ec2118a8a8": "ENEMY",
+    "ec3b6472-d165-4899-8259-e00156a86775": "ALLY",
+    "68b53555-36e1-482d-a0a8-a385e54e0870": "ENEMY",
+    "a38b0103-19c8-4e50-89a3-51f7f2bdf5a2": "ALLY",
+    "d569bc44-632b-4f7b-8cc6-af8aeae2dc40": "TRUCE",
+    "beaa8d9c-cb89-4efa-a992-7b264a14ed37": "ENEMY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ENEMY",
+    "fd93bf3e-65ec-4b51-af32-43e6d97c4087": "ALLY",
+    "efaea696-204b-4664-9b4f-c724962e06c9": "ALLY"
+  }
+}

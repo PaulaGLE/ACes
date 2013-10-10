@@ -1,0 +1,27 @@
+{
+  "name": "Assassins",
+  "createdAtMillis": 1379130087871,
+  "relationWishes": {
+    "9f684945-12f1-4587-b252-51f922d7ce7f": "ENEMY",
+    "b7dff8e9-02ea-45d6-ad57-055f2b4ecf1c": "ENEMY",
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ENEMY",
+    "ec3b6472-d165-4899-8259-e00156a86775": "ENEMY",
+    "c6997357-bcdf-4a42-85bc-08b3cbb62239": "ENEMY",
+    "3de3735b-ba9b-47d2-93ef-3cd612f6abe2": "ENEMY",
+    "b6b81ab1-e323-4bba-a165-33aed6418b59": "ENEMY",
+    "fd93bf3e-65ec-4b51-af32-43e6d97c4087": "ENEMY",
+    "aa39cf57-e099-4656-b625-7bfc48a5aa3e": "ENEMY",
+    "e2d1d64f-3d2f-48d5-bf51-48c245428365": "ENEMY",
+    "8e23927a-a22c-4ac3-a2ee-d508246d1e9a": "ENEMY",
+    "64f3b36a-c1e2-4c5f-a594-a65cafc6cad8": "ENEMY",
+    "68b53555-36e1-482d-a0a8-a385e54e0870": "ENEMY",
+    "fefc5c2d-3699-432b-8e6e-f370cf7adaa9": "ENEMY",
+    "62c35fc9-2781-4975-bb30-2be6eb21f0ae": "ENEMY",
+    "843fc3d8-028b-4630-949b-92853d7a6461": "ENEMY",
+    "ba1e44fe-2f68-4121-92e7-815edbf8abd9": "ENEMY",
+    "f514f82d-f280-4a1a-84d3-50a089fab5b5": "ENEMY",
+    "1c1a0669-13a8-4cc8-9a6b-9883d4ab230c": "ENEMY",
+    "8331c384-3425-4ab9-b713-3031704d6ef3": "ENEMY",
+    "9fc06ba7-5fc9-4b43-8991-9faa536f2d53": "ENEMY"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "GENTExPOTENTE",
+  "description": "LA GENTE POTENTE SIEMPRE PRESENTE",
+  "createdAtMillis": 1378654122131,
+  "home": {
+    "w": "PvP",
+    "lx": -559.6999999880791,
+    "ly": 22.0,
+    "lz": 568.0149567305161,
+    "p": 28.950151,
+    "y": 89.53104
+  },
+  "relationWishes": {
+    "58a247bc-4c6f-4a10-a666-7fa0b2877584": "ALLY"
+  }
+}
