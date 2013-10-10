@@ -1,0 +1,9 @@
+&a---------------- [ AYUDA ASCENSORES ] ---------------
+&eEn el Spawn de Assassins Craft podras encontrarte con ascensores cuyo funcionamiento es muy similar a la realidad.
+
+&a*Llamar un ascensor: &ePara llamar un ascensor debes hacer clic derecho sobre el cartel que se encuentra al lado de la puerta y espera a que la misma se abra para ingresar.
+
+&a*Ir a otro piso: &ePara ir a otro piso, dentro del ascensor, haz clic derecho sobre el cartel de adentro para seleccionar el piso y luego golpealo para ponerlo en marcha.
+
+&a **NOTA: &eRecuerda realizar los pasos anteriores sin objetos en la mano. 
+&a----------------------------------------------------

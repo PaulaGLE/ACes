@@ -1,0 +1,8 @@
+&a--------------- [ AYUDA COMANDOS DE TRABAJOS ] -----------------
+&a/jobs browse: &eMuestra la lista de todos los trabajos.
+&a/jobs join [NombreTrabajo]: &eIngresar en algon trabajo.
+&a/jobs stats: &eComprueba todas las estadisticas de tu trabajo actual.
+&a/jobs leave [NombreTrabajo]: &eDeja un trabajo en especifico.
+&a/jobs leaveall: &eDeja todos los trabajos en los que estes.
+&a/jobs info [NombreTrabajo]: &eMuestra todas las caracteristicas del trabajo.
+&a----------------------------------------------------

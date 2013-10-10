@@ -555,10 +555,13 @@ world-home-permissions: false
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:  
   default: 1
-  # essentials.sethome.multiple.vip
-  vip: 3
-  # essentials.sethome.multiple.staff
-  staff: 10
+  # essentials.sethome.multiple.gold
+  gold: 3
+  # essentials.sethome.multiple.diamond
+  diamond: 5
+  # essentials.sethome.multiple.emerald
+  emerald: 7
+
 
 # Set timeout in seconds for players to accept tpa before request is cancelled.
 # Set to 0 for no timeout.

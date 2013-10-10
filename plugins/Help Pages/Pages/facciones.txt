@@ -1,0 +1,29 @@
+&a--------------- [ AYUDA FACCIONES ] -----------------
+&a/f create <nombre> : &eCrear tu propia faccion.
+&a/f join <faccion>: &eUnirte a una faccion.
+&a/f leave: &eDejar tu faccion.
+&a/f f [faccion]: &eVer informacion de tu faccion u otra. 
+&a/f p [jugador]: &eVer tu informacion o de otro jugador.
+&a/f home: &eTeletransportarte al home de tu faccion.
+&a/f map [ON/OFF]: &e Ver un mapa de territorios cercanos.
+&a------------------- [MODERADOR]  --------------------
+&a/f invite <jugador>: &eInvitar a un jugador a tu faccion.
+&a/f kick <jugador>: &eExpulsar a un jugador de tu faccion.
+&a/f claim: &eReclamar territorio para tu faccion.
+&a/f unclaim: &eLiberar un territorio reclamado.
+&a/f unclaimall: &eLiberar todos los territorios de tu faccion.
+&a/f ally <faccion>: &eSolicitar la alianza a una faccion.
+&a/f truce <faccion>: &eEstablecer la relacion con la faccion como en tregua.
+&a/f neutral <faccion>: &eEstablecer la relacion con la faccion como neutral.
+&a/f enemy <faccion>: &eDeclarar enemiga a una faccion.
+&a-------------------   [LiDER]    --------------------
+&a/f name <nuevo nombre> : &eModificar el nombre de tu faccion.
+&a/f desc <descripcion>: &eEstablecer la descripcion de tu faccion.
+&a/f open [yes/no]: &eDeterminar si se requiere invitacion para ingresar.
+&a/f leader <jugador>: &eDar el puesto de lider a otro jugador.
+&a/f officer <jugador>: &eAscender a alguien a moderador en la faccion.
+&a/f promote <jugador>: &eAscender a un jugador al siguiente rango.
+&a/f demote <jugador>: &eDegradar a un jugador al rango anterior.
+&a/f title <jugador>: &eEstablecer un titulo a alguien de tu faccion.
+&a/f sethome: &eEstablecer el home de tu faccion.
+&a----------------------------------------------------

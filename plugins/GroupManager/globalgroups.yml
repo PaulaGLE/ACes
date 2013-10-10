@@ -1,0 +1,143 @@
+groups:
+#*******************************************************
+#                USUARIOS NORMALES
+#*******************************************************
+  g:essentials_usuarios:
+    permissions:
+    - multiverse.access.*
+    - -essentials.fly
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.book  
+    - essentials.mail  
+    - essentials.motd 
+    - essentials.kits.kitinicial
+    - essentials.balance
+    - essentials.pay
+    - essentials.spawn
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny 
+    - essentials.signs.use.*
+    - helppages.all 
+    - -helppages.page.VIP
+    - -helppages.page.Admin
+    - -helppages.page.Mod
+
+#*******************************************************
+#                   COLABORADORES
+#*******************************************************    
+  g:essentials_colaboradores:
+    permissions:
+
+#*******************************************************
+#                   MODERADORES
+#*******************************************************
+  g:essentials_moderadores:
+    permissions:
+    - essentials.afk.kickexempt
+    - essentials.seen.banreason
+    - essentials.balance.others 
+    - essentials.chat.ignoreexempt 
+    - essentials.chat.url
+    - essentials.realname
+    - essentials.ban
+    - essentials.ban.notify
+    - essentials.banip
+    - essentials.tempban
+    - essentials.tempban.exempt
+    - essentials.tempban.offline
+    - essentials.jails
+    - essentials.jail.allow.jails
+    - essentials.jail.exempt
+    - essentials.jail.allow.togglejail
+    - essentials.togglejail
+    - essentials.togglejail.offline
+    - essentials.kick
+    - essentials.kick.notify
+    - helppages.page.Mod
+
+#*******************************************************
+#                   ADMINISTRADORES
+#*******************************************************
+  g:essentials_admin:
+    permissions:
+    
+    - essentials.seen
+    - essentials.balancetop    
+    - essentials.itemdb
+    - essentials.list   
+    - essentials.mail.sendall 
+    - essentials.broadcast
+    - essentials.firework  
+    - essentials.tree
+    - essentials.whois
+    - essentials.getpos.others
+    - essentials.teleport.timer.bypass
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.tppos
+    - essentials.tpaall
+    - essentials.tpall
+    - essentials.home.others  
+    - essentials.ban.offline
+    - essentials.ban.exempt
+    - essentials.kick.exempt
+    - essentials.enderchest.others
+    - essentials.invsee
+    - helppages.page.Admin
+
+#*******************************************************
+#                   DUEÑOS
+#*******************************************************
+  g:essentials_owner:
+    permissions:
+    - breport.*
+
+#*******************************************************
+#                  GRUPOS VIP
+#*******************************************************
+  g:essentials_gold:
+    permissions:
+    - essentials.joinfullserver 
+    - essentials.hat 
+    - essentials.getpos 
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.ignore 
+    - essentials.mail.send  
+    - essentials.suicide 
+    - essentials.ping
+    - essentials.enderchest
+    - essentials.sethome.multiple.gold
+    - essentials.tpahere 
+    - helppages.page.VIP
+
+  g:essentials_diamond:
+    permissions:
+    - essentials.feed 
+    - essentials.repair
+    - essentials.repair.all 
+    - essentials.near
+    - essentials.clearinventory
+    - essentials.sethome.multiple.diamond
+
+  g:essentials_emerald:
+    permissions:
+    - essentials.repair.armor
+    - essentials.repair.enchanted
+    - essentials.time
+    - essentials.time.set 
+    - essentials.weather
+    - essentials.thunder
+    - essentials.workbench 
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.magic
+    - essentials.sethome.multiple.emerald

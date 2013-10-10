@@ -1,0 +1,24 @@
+&a-------------- [ AYUDA MODERADORES ] ----------------
+&e------------------- [ REPORTES ] --------------------
+&a/read: &eVer la lista de reportes no atendidos.
+&a/resolve [id del reporte]: &eMarcar un reporte como resuelto.
+&a/unresolve [id del reporte]: &eMarcar un reporte como no resuelto.
+&e-------------------- [ COMANDOS ] -------------------
+&a/balance <jugador>: &eVer el dinero que tiene alguien en su cuenta.
+&a/realname <jugador>: &eVer el nombre verdadero de un jugador con nick.
+&a/seen banreason <jugador>: &eVer la razon del baneo de un jugador.
+&a/ban <jugador> [razon]: &eBanear a un jugador.
+&a/banip <ip>: &eBanear una IP.
+&a/tempban <jugador> <tiempo>: &eBanear a un jugador temporalmente.
+&a/jails: &eVer una lista de las carceles disponibles.
+&a/jail <jugador> <carcel> [tiempo]: &eEnviar a un jugador a la carcel.
+&a/kick <jugador> [razon]: &eExpulsar a un jugador del servidor.
+
+
+
+
+
+&a/mute <jugador>: &eSilenciar a un jugador en el chat.
+
+&a**NOTA: &eUsa /staff para hablar por el canal privado del Staff.
+&a----------------------------------------------------

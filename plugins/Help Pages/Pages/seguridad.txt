@@ -1,0 +1,9 @@
+&a---------------- [ AYUDA SEGURIDAD ] ----------------
+&e En Assassins Craft puedes proteger tus cofres, puertas, hornos y otros objetos mediante un sencillo sistema de carteles. 
+
+&a* Como proteger &ePara proteger objetos simplemente debes colocar un cartel en ellos. En el caso de las puertas, debes colocarlo sobre ellas con el texto [Private] y luego tu nombre en la segunda fila. 
+
+&a* Autorizar uso:&ePuedes permitir a otros jugadores el uso de tus objetos protegidos, para ello agrega su nombre y el tuyo en el cartel debajo del texto [Private].
+
+&a* Editar carteles: &ePara editar un cartel de proteccion sin quitarlo puedes darle click derecho y luego utilizar /lockette <# linea> <texto>
+&a----------------------------------------------------

@@ -1,0 +1,74 @@
+users:
+  Altair:
+    group: Emerald
+    subgroups: []
+    permissions: []
+  CarlosssM:
+    group: Moderadores
+    subgroups:
+    - Emerald
+    permissions: []
+  Cracker:
+    group: Emerald
+    subgroups: []
+    permissions: []
+  Fran:
+    group: Moderadores
+    subgroups: []
+    permissions: []
+  Franco:
+    group: Moderadores
+    subgroups: []
+    permissions: []
+  ghost71:
+    group: Emerald
+    subgroups: []
+    permissions: []
+  Hammet:
+    group: Owner
+    subgroups: []
+    permissions: []
+  JseAranda:
+    group: Colaboradores
+    subgroups: []
+    permissions: []
+  LilEazyKush:
+    group: Diamond
+    subgroups: []
+    permissions: []
+  ManuCADM:
+    group: Owner
+    subgroups: []
+    permissions: []
+  maxi0170:
+    group: Diamond
+    subgroups: []
+    permissions: []
+  Nejro:
+    group: Admin
+    subgroups: []
+    permissions: []
+  PhoenixAS:
+    group: Owner
+    subgroups: []
+    permissions: []
+  Starkz:
+    group: Gold
+    subgroups: []
+    permissions: []
+  TheKiraz:
+    group: Emerald
+    subgroups: []
+    permissions: []
+  Trop:
+    group: Owner
+    subgroups: []
+    permissions: []
+  Woolf:
+    group: Colaboradores
+    subgroups: []
+    permissions: []
+  Yggdrasil:
+    group: Colaboradores
+    subgroups: []
+    permissions: []

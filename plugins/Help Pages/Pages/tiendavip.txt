@@ -1,0 +1,17 @@
+&a---------------- [ AYUDA TIENDAVIP ] ----------------
+&e-------------------[ TIENDA VIP ]--------------------
+
+&a*NOTA: &eLa entrada a la misma requiere de &crango VIP &e.
+
+&eLa Tienda VIP consta de diversos items que puedes adquirir a precios accesibles, en moneda del servidor (/money).
+
+&eLas compras en la misma se realizan de la misma forma que en cualquier tienda (/help tiendas).
+&e-------------[ TIENDA DE RECOMPENSAS]----------------
+&eEl sistema de recompensas de Assassins Craft premia a los usuarios que compran en la tienda VIP &a(http://assassinscraftes.enjin.com/tienda) con puntos que pueden canjear por objetos en la tienda de recompensas.
+
+&e*Para comprar en la tienda, simplemente debes hacer clic derecho sobre el cartel del objeto que quieres adquirir.
+
+&cEl sistema no te pedira confirmacion por lo que piensa bien antes de hacer el clic.
+
+&e*Para ver los puntos que llevas acumulados usa /points me .
+&a----------------------------------------------------

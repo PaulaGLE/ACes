@@ -1,0 +1,29 @@
+&a------------------- [ AYUDA TRABAJOS ] -------------------
+&e------------------&8[ MINERO ]&e----------------------
+&aIdeal para el que este constantemente en busca de minerales bajo tierra!
+&aAl unirte al trabajo de minero te centraras en labores basicas como romper bloques y conseguir recursos para obtener ganancias y experiencia en tu trabajo.
+&aA medida que encuentres minerales mas complicados de ubicar tendras mayor recompensa.
+&e------------------&6[ EXCAVADOR ]&e--------------------
+&aSiendo excavador obtendras ganancias extrayendo bloques de, en su mayoria, superficies, tales como arena, tierra, gravilla y arcilla. 
+&e------------------&f[ CONSTRUCTOR ]&e----------------------
+&aEl constructor sera recompensado por confeccionar estructuras dentro del juego, utilizando objetos ya crafteados como su principal recurso.
+&e------------------&a[ GRANJERO ]&e----------------------
+&aComo granjero tienes la labor de crear plantaciones y trabajar en cosecharlas para ser retribuido en ganancias.
+&e------------------&5[ CARPINTERO ]&e----------------------
+&aLos carpinteros centran su trabajo en craftear objetos UNICAMENTE de madera (como palitos, barcos, carteles, entre otros).
+&e------------------&9[ CAZADOR ]&e---------------------- 
+&aTienes instinto de cazador? Aqui tendras posibilidad de ser recompensado al matar mobs peacefull.
+&e------------------&c[ CAZADOR DE MOBS ]&e---------------------- 
+&aListo para un poco de accion? Estaras constantemente en busca de cualquier mob agresivo, desde simples Skeletons hasta un Wither. Cuidado donde te metes.
+&e------------------&1[ HERRERO ]&e---------------------- 
+&aDedicaras tu tiempo mayormente al crafteo de minerales, para crear herramientas, armas, puertas, y mucho mas.
+&e------------------&3[ HECHICERO ]&e----------------------
+&aSiendo hechicero tendras una amplia gama de objetos con los cuales ganar experiencia. Si la alquimia y encantamiento es lo tuyo, no dudes en unirte a este trabajo.
+&aPodras beneficiarte de este trabajo encantando objetos o creando todo tipo de pociones. 
+&e------------------&b[ PESCADOR ]&e----------------------
+&aEntonces te gustaraa un empleo tanto mas relajante? Sentarte a la orilla de la playa, observar el paisaje mientras espera que algo pique tu anzuelo.
+&aFlojo pero astuto, como pescador seras renumerado pescando. Mientras mas pescados, mas ganancias y experiencia.
+&e------------------&4[ MERCENARIO ]&e----------------------
+&aSaca el asesino que hay en ti! No te preocupes mucho por tu reputacion, como mercenario no sera muy buena.
+&aPagados para matar, los mercenarios se encargan de lograr la mayor cantidad de asesinatos a otros jugadores.
+&a----------------------------------------------------

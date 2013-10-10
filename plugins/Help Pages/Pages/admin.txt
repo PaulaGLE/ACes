@@ -1,0 +1,47 @@
+&a-------------------[ AYUDA ADMIN ]-------------------
+&e---------------------[ REPORTES ]--------------------
+&a/read: &eVer la lista de reportes no atendidos.
+&a/resolve [id del reporte]: &eMarcar un reporte como resuelto.
+&a/unresolve [id del reporte]: &eMarcar un reporte como no resuelto.
+&a/gotoreport [id del reporte]: &eIr a donde se hizo el reporte.
+&e---------------------[ COMANDOS ]--------------------
+&a/balance <jugador>: &eVer el dinero que tiene alguien en su cuenta.
+&a/balancetop: &eVer el top de jugadores con mas dinero.
+&a/itemdb: &eVer ID del objeto que se tiene en la mano.
+&a/list: &eVer la lista de jugadores online y los slots que quedan libres.
+&a/seen <jugador>: &eVer datos de la ultima conexion de un jugador.
+&a/whois <jugador>: &eVer el nombre real de un jugador, dinero y estado.
+&a/invsee <jugador>: &eVer el inventario de un jugador.
+&a/getpos [jugador]: &eVer tu ubicacion o la de otro jugador.
+&a/seen banreason <jugador>: &eVer la razon del baneo de un jugador.
+&a/broadcast <mensaje>: &eColocar un anuncio global.
+&a/jails: &eVer una lista de las carceles disponibles.
+&a/jail <jugador> <carcel> [tiempo]: &eEnviar a un jugador a la carcel.
+&a/kick <jugador> [razon]: &eExpulsar a un jugador del servidor.
+&a/ban <jugador> [razon]: &eBanear a un jugador.
+&a/banip <ip>: &eBanear una IP.
+&a/tempban <jugador> <tiempo>: &eBanear a un jugador temporalmente.
+&a/tp <jugador>: &eTeletransportarse a un jugador.
+&a/tphere <jugador>: &eTraer a un jugador hacia ti.
+&a/tppos <x><y><z>: &eTeletransportarte a una coordenada.
+&a/tpaall: &eEnvia una peticion a todos los jugadores conectados para que se teletransporten a ti.
+&a/tpall: &eMueve a todos los jugadores conectados a tu posicion.
+&a/home <jugador>: &eIr al home de otro jugador.
+&a/tree: &eColocar un arbol en tu posicion.
+&a/firework: &eAgregar efectos a los fuegos artificiales.
+
+
+&a/mute <jugador>: &eSilenciar a un jugador en el chat.
+
+
+
+
+
+&a/near: &eVer una lista de los jugadores cercanos.
+&a/enderchest <jugador>: &eVer el contenido del enderchest de un jugador.
+&a/playerhead spawn: &eObtener tu cabeza.
+&a/block <jugador>: &eBloquea a un jugador para que no use ningun comando.
+
+&a**NOTA: &eUsa /staff para hablar por el canal privado de todo el Staff.
+&a**NOTA2: &eUsa /admin para hablar por el canal privado de los Admin.
+&a----------------------------------------------------

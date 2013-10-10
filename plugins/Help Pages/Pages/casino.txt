@@ -1,0 +1,9 @@
+&a---------------- [ AYUDA CASINO ] -------------------
+&eAssassins Craft cuenta con un casino (/warp casino) con maquinas
+&etragamonedas en el Spawn.
+
+&eSi quieres jugar en el, simplemente golpea con la mano vacia sobre
+&eel interruptor (el noteblock) delante de la maquina. Automaticamente
+&ese descontaran $100 de tu cuenta en monedas del servidor y, si ganas,
+&etu premio sera depositado de igual manera.
+&a----------------------------------------------------

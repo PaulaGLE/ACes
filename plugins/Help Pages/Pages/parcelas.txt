@@ -1,0 +1,26 @@
+&a--------------- [ AYUDA PARCELAS ] ------------------
+&eEn Assassins Craft puedes adquirir tu propio terreno en el mundo de Parcelas (/warp parcelas). Alli tendras un lugar seguro, libre de PvP, donde construir, vender o simplemente guardar tus cosas.
+
+&a/plotme auto: &eLa forma mas sencilla de comprar una parcela. El
+&e sistema te asignara una desocupada. 
+&a/plotme claim: &eSi prefieres elegir la parcela, coloca este comando
+&eestando en ella y la compraras.
+&a/plotme home [#]: &eTeletransportate a tus parcelas.
+&a/plotme info: &eInformacion acerca de la parcela en que estas.
+&a/plotme biome: &eInformacion acerca del bioma en que esta la parcela.
+&a/plotme biome <bioma>: &eCambiar el bioma de tu parcela.
+&a/plotme biomelist: &e Lista de posibles biomas.
+&a/plotme comment <comentario>: &eDejar un comentario en una parcela.
+&a/plotme comments: &eLista de comentarios acerca de tu parcela.
+&a/plotme list: &eLista de las parcelas en que puedes construir.
+&a/plotme clear: &eRestaurar tu parcela a su estado original.
+&a/plotme dispose: &eYa no seras el propietario de la parcela.
+&a/plotme deny <jugador>: &eDenegar el acceso a un jugador.
+&a/plotme undeny <jugador>: &eReadmite a un jugador denegado en tu parcela.
+&a/plotme add <jugador>: &ePermitir a un jugador construir en tu parcela.
+&a/plotme remove <jugador>: &eRemover el permiso para construir en tu parcela.
+&a/plotme protect: &eProtege tu parcela para que no pueda ser limpiada ni reseteada.
+
+
+&a**Nota: &eEl valor de cada parcela es de $2000 en moneda del juego.
+&a----------------------------------------------------

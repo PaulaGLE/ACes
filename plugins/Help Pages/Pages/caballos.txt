@@ -1,0 +1,11 @@
+&a--------------- [ AYUDA CABALLOS ] ------------------
+&eLos caballos ocupan un lugar importante entre las mejoras de la version 1.6  de Minecraft y en Assassins Craft puedes aprovecharlos al maximo. Reclamandolos, protegiendolos de otros jugadores e incluso llevandolos a donde quieras mediante el sistema de establos virtuales.
+
+&a Reclamar un caballo salvaje: &ePara convertirte en el propietario de un caballo, solo debes colocarle un Name Tag y sera enviado automaticamente a tu establo virtual.
+
+&a/horses summon <caballo>: &eEste comando te permite llamar a tu posicion a uno de los caballos de tu establo.
+&a/horses list: &eVisualiza la lista de los caballos que se encuentran en tu establo.
+&a/horses dismiss: &eGuarda tu caballo activo en tu establo virtual.
+&a/horses delete <caballo>: &eBorra permanentemente un caballo de tu establo. Recuerda que no podras recuperarlo mas.
+
+&a----------------------------------------------------

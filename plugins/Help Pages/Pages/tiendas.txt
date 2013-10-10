@@ -1,0 +1,15 @@
+&a----------------- [ AYUDA TIENDAS ] -----------------
+&eEn Assasins Craft puedes crear tus propias tiendas de objetos para comerciar con otros jugadores.
+
+&a*Como crear una tienda &ePara crear una tienda debes colocar un cofre y golpearlo con el objeto que deseas vender, posteriormente deberas ingresar en el chat el precio de venta. Finalmente coloca objetos de ese tipo dentro del cofre y golpea el cartel.
+
+&eLas ganancias que obtengas se agregaran a tu balance (/money).
+
+&c**Recuerda proteger tu tienda (/help seguridad) si la colocas en territorios no seguros.
+
+&a*Cambiar precio de venta : &eSi ya creaste una tienda y quieres modificar el precio puedes usar /qs price para modificarlo y golpea el cartel para que se actualice. 
+
+&a*Comprar en una tienda: &ePara comprar un objeto en una tienda, debes golpear el cartel de la misma y escribir en el chat la cantidad de objetos que deseas adquirir. El costo de los mismos se debitara de tu cuenta.
+
+&a*Buscar tiendas: &ePuedes buscar tiendas cercanas mediante el comando /qs find <item que buscas>
+&a----------------------------------------------------
