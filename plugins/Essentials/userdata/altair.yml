@@ -1,8 +1,8 @@
 timestamps:
-  login: 1379701929275
-  logout: 1379707890292
-  lastteleport: 1379707672394
-  lastheal: 1376172263411
+  login: 1381432612932
+  logout: 1381432661963
+  lastteleport: 1381429739290
+  lastheal: 1381431796615
   jail: 0
   kits:
     manzanasoroencantadas: 1379265348686
@@ -10,21 +10,21 @@ timestamps:
     fullarmor: 1379265270288
     fullweapons: 1379265295888
     kitinicial: 1377829423477
-ipAddress: 190.231.217.34
+ipAddress: 127.0.0.1
 lastlocation:
-  world: PvP
-  x: 89.7472459660249
-  y: 62.0
-  z: 301.51270148254133
-  yaw: -155.99823
-  pitch: 10.649998
+  world: world
+  x: -681.6792745591241
+  y: 20.0
+  z: 191.30494948737726
+  yaw: 104.06702
+  pitch: 1.8000798
 logoutlocation:
-  world: Parcelas
-  x: -33.09736373004264
-  y: 55.0
-  z: -30.781813833044172
-  yaw: 108.47589
-  pitch: 20.999771
+  world: PvP
+  x: 328.85699525022153
+  y: 63.0
+  z: 382.80476977592565
+  yaw: 234.94661
+  pitch: 8.170516
 money: '10267.8741335609378071'
 afk: false
 homes:

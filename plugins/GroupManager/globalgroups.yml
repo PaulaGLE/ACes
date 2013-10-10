@@ -43,6 +43,8 @@ groups:
     - PointShop.buy.Item
     - PointShop.buy.Cmd
     - PointShop.sign.use
+    - -treeassist.replant
+    - -treeassist.destroy.* 
 
 
 #*******************************************************
@@ -160,6 +162,8 @@ groups:
     - livechat.private.color
     - livechat.factionchat.ally.color
     - livechat.factionchat.private.color
+    - treeassist.replant
+    - treeassist.destroy.* 
 
   g:essentials_emerald:
     permissions:
@@ -175,3 +179,11 @@ groups:
     - essentials.nick.magic
     - essentials.sethome.multiple.emerald
     - livechat.colortag
+    - mobcatcher.catch.peaceful.pig
+    - mobcatcher.catch.peaceful.sheep
+    - mobcatcher.catch.peaceful.cow
+    - mobcatcher.catch.peaceful.chicken
+    - mobcatcher.catch.peaceful.mooshroom
+    - mobcatcher.catch.peaceful.wolf
+    - mobcatcher.catch.peaceful.ocelot
+    - mobcatcher.catch.peaceful.horse
