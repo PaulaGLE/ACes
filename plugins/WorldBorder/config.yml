@@ -1,0 +1,24 @@
+cfg-version: 7
+message: Llegaste al límite del mundo.
+round-border: true
+debug-mode: false
+whoosh-effect: false
+portal-redirection: true
+knock-back-dist: 3.0
+timer-delay-ticks: 5
+remount-delay-ticks: 0
+dynmap-border-enabled: true
+dynmap-border-message: Borde del mundo.
+worlds:
+  PvP:
+    x: 172.5
+    z: 400.5
+    radiusX: 25000
+    radiusZ: 25000
+    wrapping: false
+  world_nether:
+    x: -32.02970047553834
+    z: -88.32240368072637
+    radiusX: 10000
+    radiusZ: 10000
+    wrapping: false
