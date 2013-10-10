@@ -1,0 +1,271 @@
+# Citizens NPC Storage
+
+
+last-created-npc-id: 81
+npc:
+  '19':
+    name: Steve
+    traits:
+      equipment:
+        hand:
+          type: 258
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1066.3729578244465'
+        y: '20.0'
+        z: '148.29880963168694'
+        yaw: '276.0880432128906'
+        pitch: '10.95002269744873'
+      owner: Hammet
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '21':
+    name: Steve
+    traits:
+      equipment:
+        hand:
+          type: 5
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1051.2861711495907'
+        y: '20.0'
+        z: '150.5617429228701'
+        yaw: '132.8387451171875'
+        pitch: '-16.200008392333984'
+      owner: Hammet
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '25':
+    name: Steve
+    traits:
+      equipment:
+        hand:
+          type: 346
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1041.2745293715489'
+        y: '22.0'
+        z: '149.25279553705326'
+        yaw: '215.6572265625'
+        pitch: '32.24998474121094'
+      owner: Hammet
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '26':
+    name: Steve
+    traits:
+      equipment:
+        hand:
+          type: 267
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: 298
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: 299
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: 300
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: 301
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1029.01744899387'
+        y: '19.875'
+        z: '152.182664763276'
+        yaw: '226.302001953125'
+        pitch: '-34.499969482421875'
+      owner: Hammet
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '38':
+    name: Enderman
+    traits:
+      equipment:
+        hand:
+          type: 121
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1010.9861140140039'
+        y: '20.0'
+        z: '148.835755475666'
+        yaw: '-261.6498718261719'
+        pitch: '0.0'
+      owner: Hammet
+      type: Enderman
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '39':
+    name: Enderman
+    traits:
+      equipment:
+        hand:
+          type: 121
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1012.53553841213'
+        y: '20.0'
+        z: '145.81193417942134'
+        yaw: '-1.6999785900115967'
+        pitch: '0.0'
+      owner: Hammet
+      type: Enderman
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '43':
+    name: Steve
+    traits:
+      equipment:
+        hand:
+          type: 272
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: 86
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      location:
+        world: world
+        x: '-1012.9579418795738'
+        y: '20.0'
+        z: '148.77693912947277'
+        yaw: '196.299560546875'
+        pitch: '-16.4996395111084'
+      owner: Hammet
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '44':
+    name: Blaze
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '-1021.6845986347507'
+        y: '27.0'
+        z: '146.2924906184221'
+        yaw: '46.89947509765625'
+        pitch: '0.0'
+      owner: Hammet
+      type: Blaze
+    traitnames: location,owner,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '47':
+    name: AssassinsCraft
+    traits:
+      equipment:
+        hand:
+          type: 276
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner: PhoenixAS
+      location:
+        world: world
+        x: '-1065.6359746091641'
+        y: '27.0'
+        z: '145.6561781035789'
+        yaw: '8.059500694274902'
+        pitch: '75.74989318847656'
+      spawned: true
+    traitnames: location,owner,equipment,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '48':
+    name: Steve
+    traits:
+      spawned: true
+      owner: Hammet
+      location:
+        world: world
+        x: '-1296.122442016921'
+        y: '67.0'
+        z: '449.94276772724265'
+        yaw: '318.4209899902344'
+        pitch: '26.550121307373047'
+    traitnames: location,owner,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
