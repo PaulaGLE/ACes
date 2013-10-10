@@ -9,26 +9,6 @@ portals:
     location: -1067.0,20.0,160.0:-1063.0,24.0,160.0
     world: world
     destination: e:PvP:172.0,74.0,401.0:0.0:0.0
-  Parcelas:
-    entryfee:
-      currency: -1
-      amount: 0.0
-    safeteleport: true
-    teleportnonplayers: false
-    owner: PhoenixAS
-    location: -1054.0,20.0,160.0:-1050.0,24.0,160.0
-    world: world
-    destination: e:Parcelas:23.0,67.0,0.0:0.0:0.0
-  Recursos:
-    entryfee:
-      currency: -1
-      amount: 0.0
-    safeteleport: true
-    teleportnonplayers: false
-    owner: PhoenixAS
-    location: -1041.0,20.0,160.0:-1037.0,24.0,160.0
-    world: world
-    destination: e:Recursos:87.0,64.0,506.0:0.0:0.0
   Nether:
     entryfee:
       currency: -1
