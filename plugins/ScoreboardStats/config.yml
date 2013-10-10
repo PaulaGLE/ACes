@@ -1,0 +1,38 @@
+#This is the default config
+
+enable-pvpstats: true
+
+disabled-worlds:
+
+#This will not count vanished players in the online value
+hide-vanished: false
+
+enable-sound: false
+
+enable-auto-update: false
+
+Scoreboard:
+  Title: '&a&lEstadisticas'
+  #seconds
+  # For instant updates you can or 1 and it will update every second
+  Update-delay: 5
+  Items:
+    #The Title must have under 16 characters
+    #Title: Type
+    '&9Dinero': '%econ%'
+    '&9Power': '%power%'    
+    '&9Asesinatos': '%kills%'
+    '&9Muertes': '%deaths%'
+    
+
+Temp-Scoreboard-enabled: true
+
+Temp-Scoreboard:
+  Title: '&a&lTop Asesinos'
+  #%mob% | %kills% | %killstreak%
+  Type: '%kills%'
+  Color: '&9'
+  #How many Players would be displayed
+  Items: 5
+  Intervall-show: 60
+  Intervall-disappear: 60
