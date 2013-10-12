@@ -1,7 +1,7 @@
 timestamps:
-  login: 1381545592338
+  login: 1381546571050
   logout: 1381545639038
-  lastteleport: 1381429739290
+  lastteleport: 1381546581276
   lastheal: 1381431796615
   jail: 0
   kits:
@@ -12,12 +12,12 @@ timestamps:
     kitinicial: 1377829423477
 ipAddress: 127.0.0.1
 lastlocation:
-  world: world
-  x: -568.5153559091673
-  y: 43.0
-  z: 162.89512492239996
-  yaw: 276.11154
-  pitch: 11.099971
+  world: PvP
+  x: 361.73026482023596
+  y: 69.0
+  z: 522.2237567758871
+  yaw: 290.44653
+  pitch: 6.2204995
 logoutlocation:
   world: PvP
   x: 360.84078458233483
