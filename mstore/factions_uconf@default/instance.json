@@ -84,7 +84,7 @@
     ]
   },
   "powerMax": 10.0,
-  "powerMin": -10.0,
+  "powerMin": -30.0,
   "powerPerHour": 5.0,
   "powerPerDeath": -4.0,
   "canLeaveWithNegativePower": true,

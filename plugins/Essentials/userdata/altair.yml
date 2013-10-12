@@ -1,7 +1,7 @@
 timestamps:
-  login: 1381546571050
-  logout: 1381545639038
-  lastteleport: 1381546581276
+  login: 1381612162183
+  logout: 1381612333033
+  lastteleport: 1381603032590
   lastheal: 1381431796615
   jail: 0
   kits:
@@ -12,19 +12,19 @@ timestamps:
     kitinicial: 1377829423477
 ipAddress: 127.0.0.1
 lastlocation:
-  world: PvP
-  x: 361.73026482023596
-  y: 69.0
-  z: 522.2237567758871
-  yaw: 290.44653
-  pitch: 6.2204995
+  world: world
+  x: -486.3671810018504
+  y: 13.0
+  z: 196.3680788927682
+  yaw: 197.7539
+  pitch: 10.649969
 logoutlocation:
   world: PvP
-  x: 360.84078458233483
-  y: 69.0
-  z: 524.6173935367992
-  yaw: 178.99648
-  pitch: 20.020498
+  x: 184.35114077018898
+  y: 64.0
+  z: 466.4936555030922
+  yaw: 226.04578
+  pitch: 14.999776
 money: '10267.8741335609378071'
 afk: false
 homes:
