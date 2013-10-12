@@ -148,6 +148,7 @@ groups:
     - essentials.tpahere 
     - helppages.page.VIP
     - livechat.ignore
+    - morehearts.gold
 
   g:essentials_diamond:
     permissions:
@@ -164,6 +165,7 @@ groups:
     - livechat.factionchat.private.color
     - treeassist.replant
     - treeassist.destroy.* 
+    - morehearts.diamond
 
   g:essentials_emerald:
     permissions:
@@ -187,3 +189,4 @@ groups:
     - mobcatcher.catch.peaceful.wolf
     - mobcatcher.catch.peaceful.ocelot
     - mobcatcher.catch.peaceful.horse
+    - morehearts.emerald

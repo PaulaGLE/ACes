@@ -1,28 +1,28 @@
 timestamps:
-  login: 1381439657088
-  logout: 1381439381840
+  login: 1381446611800
+  logout: 1381445820604
   lastteleport: 1381436683893
   lastheal: 1373606164718
   kits:
     manzanasoroencantadas: 1377547040053
+    fulltools: 1381445151614
     fullsword: 1377400344881
-    fulltools: 1379451866915
     packhechicero: 1377406468493
-    fullarmor: 1379115785071
-    fullweapons: 1379392575825
+    fullarmor: 1381445075065
+    fullweapons: 1381445084513
     fullbow: 1377533379093
-    armorprotiv: 1379729583495
-    kitinicial: 1379189741708
     packmonstruos: 1378249515322
+    kitinicial: 1379189741708
+    armorprotiv: 1379729583495
     fullhelmet: 1377138520016
 ipAddress: 127.0.0.1
 logoutlocation:
   world: PvP
-  x: 221.04430388234985
+  x: 93.86174793115416
   y: 64.0
-  z: 558.1008530785963
-  yaw: -146.95331
-  pitch: 15.670602
+  z: 573.5221807200508
+  yaw: -163.15268
+  pitch: 13.950011
 lastlocation:
   world: PvP
   x: 270.93716987525585
@@ -30,7 +30,7 @@ lastlocation:
   z: 421.084826360876
   yaw: 230.55424
   pitch: 32.100082
-godmode: true
+godmode: false
 money: '120596.0'
 homes:
   home:

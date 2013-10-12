@@ -1,0 +1,8 @@
+ShowHearts: true
+Players: {}
+Permissions:
+  gold: 1
+  diamond: 1
+  emerald: 3
+DefaultHealth: 10.0
+EnableIn: world,world_nether,world_the_end,PvP
