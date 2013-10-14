@@ -1,0 +1,96 @@
+curSection: 0
+'0':
+  storedDate: 13 de octubre de 2013 22:19:48 ART
+  armor: []
+  contents:
+  - STONE_SWORD 1
+  - STONE_PICKAXE 1
+  - STONE_SPADE 1
+  - STONE_AXE 1
+  - COBBLESTONE 64
+  - PORK 64
+  - RAW_BEEF 33
+  - LEATHER 19
+  - PORK 44
+  - SUGAR_CANE 47
+  - BROWN_MUSHROOM 2
+  - BONE 2
+  - LEATHER_HELMET color="0,0,0"1
+  - LEATHER_CHESTPLATE color="0,0,0"1
+  - LEATHER_BOOTS color="0,0,0"1
+  - ENDER_CHEST 62
+  - LEATHER_LEGGINGS color="0,0,0"1
+  - RAW_CHICKEN 5
+  - FEATHER 8
+'1':
+  storedDate: 14 de octubre de 2013 15:08:24 ART
+  armor:
+  - LEATHER_BOOTS:4 color="0,0,0"1
+  - LEATHER_LEGGINGS:4 color="0,0,0"1
+  - LEATHER_CHESTPLATE:4 color="0,0,0"1
+  - LEATHER_HELMET:4 color="0,0,0"1
+  contents:
+  - STONE_SWORD:1 1
+  - FEATHER 8
+  - STONE_AXE 1
+  - COBBLESTONE 64
+  - ROTTEN_FLESH 7
+  - STONE_SPADE 1
+  - RAW_BEEF 33
+  - BONE 2
+  - ENDER_CHEST 62
+  - COBBLESTONE 64
+  - COAL 42
+  - IRON_ORE 5
+  - COBBLESTONE 33
+  - BROWN_MUSHROOM 2
+  - PORK 64
+  - RAW_CHICKEN 5
+  - LEATHER 19
+  - TORCH 5
+  - DIRT 20
+  - STONE_SWORD 1
+  - STONE_PICKAXE 1
+  - PORK 44
+  - SLIME_BALL 1
+  - SUGAR_CANE 47
+'2':
+  storedDate: 14 de octubre de 2013 15:10:27 ART
+  armor:
+  - LEATHER_BOOTS:4 color="0,0,0"1
+  - LEATHER_LEGGINGS:4 color="0,0,0"1
+  - LEATHER_CHESTPLATE:4 color="0,0,0"1
+  - LEATHER_HELMET:4 color="0,0,0"1
+  contents:
+  - STONE_SWORD:1 1
+  - FEATHER 8
+  - STONE_AXE 1
+  - COBBLESTONE 64
+  - ROTTEN_FLESH 7
+  - STONE_SPADE 1
+  - RAW_BEEF 33
+  - BONE 2
+  - ENDER_CHEST 62
+  - COBBLESTONE 64
+  - COAL 42
+  - IRON_ORE 5
+  - COBBLESTONE 33
+  - BROWN_MUSHROOM 2
+  - PORK 64
+  - RAW_CHICKEN 5
+  - LEATHER 19
+  - TORCH 5
+  - DIRT 20
+  - STONE_SWORD 1
+  - STONE_PICKAXE 1
+  - PORK 44
+  - SLIME_BALL 1
+  - SUGAR_CANE 47
+'3':
+  storedDate: 14 de octubre de 2013 16:01:38 ART
+  armor: []
+  contents: []
+'4':
+  storedDate: 14 de octubre de 2013 16:07:55 ART
+  armor: []
+  contents: []

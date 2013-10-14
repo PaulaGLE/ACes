@@ -1,38 +1,21 @@
 timestamps:
-  login: 1379730708832
-  lastteleport: 1379731952110
-  logout: 1379732398058
-  kits:
-    fullsword: 1377645263837
-    mobspawn: 1379267831782
-    kitinicial: 1377977008542
-    armorprotiv: 1377980239956
-ipAddress: 190.207.219.45
+  login: 1381722418352
+  lastteleport: 1381721297805
+  logout: 1381724695722
+ipAddress: 186.93.204.3
 lastlocation:
-  world: PvP
-  x: 179.03381026494375
-  y: 97.0
-  z: 400.1517918050879
-  yaw: 223.49796
-  pitch: 39.600075
-godmode: false
-afk: false
+  world: world
+  x: -570.3000000119209
+  y: 41.0082485204041
+  z: 116.30000001192093
+  yaw: 24.267584
+  pitch: 37.649998
 logoutlocation:
-  world: Parcelas
-  x: 8.886172131727982
-  y: 65.0
-  z: -14.513826297305275
-  yaw: 307.6765
-  pitch: 33.149807
-ban:
-  timeout: 0
-nickname: §6Hammet
-money: '32590.0'
-homes:
-  home:
-    world: world
-    x: -488.46270680416774
-    y: 26.460077743683723
-    z: 287.43996616249456
-    yaw: 26.194092
-    pitch: 19.20036
+  world: world
+  x: -569.3000000119209
+  y: 43.0
+  z: 96.85053750024257
+  yaw: -103.988556
+  pitch: 24.149982
+afk: false
+godmode: false

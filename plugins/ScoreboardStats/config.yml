@@ -2,7 +2,7 @@
 
 enable-pvpstats: true
 
-disabled-worlds:
+disabled-worlds: world
 
 #This will not count vanished players in the online value
 hide-vanished: false

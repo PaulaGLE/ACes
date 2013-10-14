@@ -1,0 +1,13 @@
+arenas:
+  paintballarena:
+    locations:
+      '1': world,-1116.486344699097,20.0,124.39525258374104,4.6130066,4.649946
+      '0': world,-1165.5211837386496,20.0,123.3441831239625,356.9628,7.049953
+    type: Paintball
+    params:
+      gameSize:
+        nTeams: '2'
+        teamSize: 1+
+      times: {}
+      tracking: {}
+brokenArenas: {}

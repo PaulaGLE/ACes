@@ -1,47 +1,20 @@
 timestamps:
-  login: 1379728401229
-  lastteleport: 1379723129646
-  logout: 1379729170935
-  jail: 0
-  lastheal: 1379650834274
-ipAddress: 201.185.142.57
+  login: 1381720540408
+  logout: 1381722112149
+  lastteleport: 1381721401003
+ipAddress: 201.185.151.179
 lastlocation:
-  world: Parcelas
-  x: -113.55307522677533
-  y: 126.96750723864261
-  z: -37.70682637655286
-  yaw: -269.22418
-  pitch: 2.5500076
-money: '16707.6949670912976131'
-afk: false
+  world: world
+  x: -645.3950811700249
+  y: 20.0
+  z: 72.42286888627
+  yaw: 29.361763
+  pitch: 61.649967
 logoutlocation:
-  world: Parcelas
-  x: -92.80012656580283
-  y: 66.79508460738445
-  z: 24.739065240398734
-  yaw: 292.2259
-  pitch: 61.199978
-homes:
-  blaze:
-    world: world_nether
-    x: 373.38439568321655
-    y: 73.0
-    z: -85.6960996216196
-    yaw: 311.24817
-    pitch: 38.69999
-  adasd:
-    world: world_nether
-    x: 452.0990681225955
-    y: 81.0
-    z: -253.1880825879463
-    yaw: 242.84888
-    pitch: 17.249996
-  ina:
-    world: PvP
-    x: 148.92772927356592
-    y: 23.0
-    z: 7464.069597904006
-    yaw: 345.8585
-    pitch: 34.349987
-jailed: false
-nickname: §eCar§9l§cos
+  world: world
+  x: -558.9114508681997
+  y: 52.278821399154644
+  z: 103.47937069740397
+  yaw: 142.45996
+  pitch: 37.199997
+afk: false

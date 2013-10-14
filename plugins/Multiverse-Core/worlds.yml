@@ -6,7 +6,7 @@ worlds:
     alias:
       name: ''
       color: WHITE
-    pvp: false
+    pvp: true
     scale: 1.0
     respawnworld: ''
     allowweather: false
@@ -19,7 +19,7 @@ worlds:
       currency: -1
       price: 0.0
     hunger: false
-    autoheal: true
+    autoheal: false
     adjustspawn: true
     portalform: ALL
     gamemode: SURVIVAL

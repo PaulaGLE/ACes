@@ -1,0 +1,116 @@
+version: 1.2
+### Descomentar las secciones que quieres personalizar
+### Evento y partida están incluidos porque cada evento debe tener al menos una partida
+### pero un evento debería tener múltiples partidas, como un torneo.
+
+#common:
+#    team: '&7{name}&e'
+#    teamshort: '&7{name}&e[{rating}]'
+#    teamlong: '&7{name}&e[{rating}] &6({wins}:{losses})'
+#    other_team_not_ready: '&eLos otros &cteams&e no estaban listos y perdieron'
+#    your_team_not_ready: '&eTu equipo no estaba listo para unirse'
+#
+#event:
+#    countdownTillEvent: ""
+#    server_countdownTillEvent: "{prefix}Comienza en {time}, &6/{cmd} únete&e, &6/{cmd} info"
+#    oneTeam: ### 1 eventos de equipo
+#        server_open: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, o &6/{cmd} info &efor info
+#        server_open_teamSizeGreaterThanOne: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, or &6/{cmd} info &efor info
+#            {eventprefix}&e Puedes unirte individualmente y serás emparejado, o puedes crear un equipo
+#            {eventprefix}&e &6/team create <jugador1> <jugador2>...
+#        start: "&6Participantes: {participants}"
+#        server_start: "{prefix}&e ¡{nteams} {playerorteam} competirá en un Evento de &6{eventname}&e!"
+#        victory: ""
+#        loss: ""
+#        draw: ""
+#        server_victory: "{prefix}&e ¡¡Felicidades a &6{winnerlong}&e por ser el ganador!!"
+#        server_draw: "¡{prefix}&e terminó en empate!"
+#    twoTeams: ## 1 equipo vs otro equipo
+#        server_open: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, o &6/{cmd} info &efor info
+#        server_open_teamSizeGreaterThanOne: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, o &6/{cmd} info &efor info
+#            {eventprefix}&e Puedes unirte individualmente y serás emparejado, o puedes crear un equipo
+#            {eventprefix}&e &6/team create <jugador1> <jugador2>...
+#        start: "&6Participantes: {participants}"
+#        server_start: "{prefix}&e ¡{nteams} {playerorteam} competirá en un Evento de &6{eventname}&e!"
+#        victory: ""
+#        loss: ""
+#        draw: ""
+#        server_victory: "{prefix} {winnerlong}&e alcanzó la victoria sobre {loserlong}"
+#        server_draw: "¡{prefix}&e terminó en empate!"
+#    multipleTeams: ## muchos equipos en contra de todos
+#        server_open: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, o &6/{cmd} info &efor info
+#        server_open_teamSizeGreaterThanOne: |
+#            {eventprefix}&e ¡Un evento de {eventname} está iniciando!
+#            {eventprefix}&e Tipo &6/{cmd} unirse&e, o &6/{cmd} info &efor info
+#            {eventprefix}&e Puedes unirte individualmente y serás emparejado, o puedes crear un equipo
+#            {eventprefix}&e &6/team create <jugador1> <jugador2>...
+#        start: "&6Participantes: {participants}"
+#        server_start: "{prefix}&e ¡{nteams} {playerorteam} competirá en un Evento de &6{eventname}&e!"
+#        victory: ""
+#        loss: ""
+#        draw: ""
+#        server_victory: "{prefix}&e ¡¡Felicidades a &6{winnerlong}&e por ser el ganador!!"
+#        server_draw: "¡{prefix}&e terminó en empate!"
+#
+#match:    
+#    oneTeam: ### partida de 1 equipo
+#        prestart: '&eTu {matchname}&e comienza en {time}.'
+#        server_prestart: '&6¡{prefix} {teamshort1} está ingresando a {matchname}!'
+#        start: '&4********** &e¡¡¡Hora de Luchar!!! &4**********'
+#        server_start: ""
+#        victory: |
+#            &eHas ganado el {matchname}
+#            &eTotal Victorias/Derrotas: &e({wins}:{losses})
+#            &eTienes {time} antes que regreses
+#        loss: |
+#            &eHas perdido tu {matchname}
+#            &eTotal Victorias/Derrotas: &e({wins}:{losses})
+#        draw: "&eEl {matchname}&e ha terminado en empate"
+#        server_victory: '¡{prefix} {winnerlong}&e obtuvo la victoria en {matchname}!'
+#        server_draw: "¡{prefix}&e terminó en empate!"
+#    twoTeams: ## 1 equipo vs otro equipo
+#        prestart: '&eTu {matchname}&e partida contra {otherteam}&e comienza en {time}.'
+#        server_prestart: '&6{prefix} {teamshort1}&6 vs {teamshort2}&6!'
+#        start: '&4********** &e¡¡Lucha!! &4**********'
+#        server_start: ""
+#        victory: |
+#            &eHas ganado tu {matchname} partida contra {otherteam}
+#            &eTotal Victorias/Derrotas: &e({wins}:{losses})
+#            &eRecord contra {otherteam}: &e({winsagainst}:{lossesagainst})
+#            &eTienes {time} antes que la partida acabe
+#        loss: |
+#            &eHas perdido tu {matchname} contra {otherteam}
+#            &eTotal Victorias/Derrotas: &e({wins}:{losses})
+#            &eRecord contra {otherteam}: &e({winsagainst}:{lossesagainst})
+#            &eVida restante:{lifeleft}
+#        draw: "&eThe {matchname}&e terminó en empate"
+#        server_victory: '¡{winnerlong}&e venció a {loserlong}!'
+#        server_draw: '¡{teamlong1}&e empató con {teamlong2}!'
+#        draw: "&eEl {matchname}&e ha terminado en empate"
+#        server_victory: '{prefix} {winnerlong}&e derrotó a {loserlong}!'
+#        server_draw: '{teamlong1}&e empató con {teamlong2}!'
+#    multipleTeams: ## muchos equipos en contra de todos
+#        prestart: '{prefix}&6 {matchname} comienza en {time}.'
+#        server_prestart: '&6{prefix} Participantes: {participants} &6'
+#        start: '&4 O---[{==========> &eLucha &4<==========}]---O'
+#        server_start: ""
+#        victory: |
+#            &e¡Has vencido a todos los enemigos!
+#            &eTienes {time} antes que la partida termine
+#            &eTu nueva clasificación &6[{ranking}] &e({wins}:{losses})
+#        loss: |
+#            &e¡Fuiste derrotado por {winnershort}&e!
+#            &eTu clasificación &6[{ranking}] &e({wins}:{losses})
+#        draw: "&eThe {matchname}&e concluyó en un empate"
+#        server_victory: "¡{prefix} {winnerlong} obtuvo la victoria!"
+#        server_draw: "¡{prefix} terminó en empate!"
