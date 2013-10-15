@@ -45,11 +45,9 @@ groups:
     - PointShop.sign.use
     - -treeassist.replant
     - -treeassist.destroy.* 
-    - EnderChestPlus.normal
-    - EnderChestPlus.use
-    - EnderChestPlus.break
-    - EnderChestPlus.place
-    - EnderChestPlus.craft
+    - quicktrade.trade.command 
+    - quicktrade.trade.rightclick
+    - quicktrade.toggle
     - arena.join.paintball
     - arena.spleef.join
     - arena.join.skirmish
@@ -158,7 +156,6 @@ groups:
     - helppages.page.VIP
     - livechat.ignore
     - morehearts.gold
-    - EnderChestPlus.gold
 
   g:essentials_diamond:
     permissions:
@@ -176,7 +173,6 @@ groups:
     - treeassist.replant
     - treeassist.destroy.* 
     - morehearts.diamond
-    - EnderChestPlus.diamond
     - ExtraStorage.bp.open
     - ExtraStorage.bp.size.18
 
@@ -204,5 +200,4 @@ groups:
     - mobcatcher.catch.peaceful.horse
     - morehearts.emerald
     - enchantpeek.allow
-    - EnderChestPlus.emerald
     - ExtraStorage.bp.size.45

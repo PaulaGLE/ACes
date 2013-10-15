@@ -1,4 +1,4 @@
-curSection: 3
+curSection: 4
 '0':
   storedDate: 14 de octubre de 2013 0:55:34 ART
   armor: []
@@ -24,13 +24,15 @@ curSection: 3
   - WOOL 1
   - SIGN 1
 '3':
-  storedDate: 14 de octubre de 2013 0:52:14 ART
+  storedDate: 15 de octubre de 2013 2:09:16 ART
   armor: []
   contents:
   - WOOD_AXE 1
-  - WOOL:12 1
-  - GRASS 1
-  - STAINED_CLAY:15 1
+  - FENCE 1
+  - WOOL 1
+  - SIGN 1
+  - ENCHANTMENT_TABLE 1
+  - DIRT 4
 '4':
   storedDate: 14 de octubre de 2013 0:53:50 ART
   armor: []

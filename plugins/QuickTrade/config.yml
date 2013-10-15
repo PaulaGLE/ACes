@@ -1,0 +1,57 @@
+#QuickTrade Default Configuration File by Kamakazi145
+
+#The name of the trade inventory
+#Default: QuickTrade
+InventoryName: Comercio
+
+#The number of rows in the inventory (Each row has 9 slots
+#(Default 3) - Must be between 2 and 6
+Rows: 3
+
+#The items for accept, accepted, decline and separator buttons
+#Defaults: Accept: 8, Accepted: 35:5, Decline: 10, Separator: 34
+Accept: '8'
+Accepted: '35:5'
+Decline: '10'
+Separator: '34'
+
+#The delay before a trade request times out in seconds
+#Default 30
+Delay: 30
+
+#Use the economy support - *Warning* requires Vault
+#Default false
+Economy: true
+
+#Economy options - amounts users can add to add to the trade? Default: Users can add $1, $10 & $50 to the trade.
+EcoOptionOne: 10
+EcoOptionTwo: 100
+EcoOptionThree: 1000
+
+#Should shift-right-click trading be allowed?
+#Default: true
+ShiftRightClick: true
+
+#After a right click request, the distance players can go away from each other, in blocks, before the request is cancelled
+#Default: 10
+Distance: 10
+
+#The furthest distance players can be from each other, in blocks, to allow command trading. 0 to disable the distance limit. *Warning* if you would like players to be able to trade cross-worlds, please set to 0.
+#Default: 0
+TradeDistanceLimit: 0
+
+#Allow creative trading
+#Default: false
+AllowCreative: false
+
+#Should normal chat be disabled for players in trades?
+#Default: true
+NoChat: true
+
+#Item blacklist, items that cannot be put into trades.
+blacklist:
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
