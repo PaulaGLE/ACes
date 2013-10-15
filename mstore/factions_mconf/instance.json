@@ -47,8 +47,7 @@
   "world_the_end"  
   ],
   "worldsNoPowerLoss": [
-  "world",
-  "Parcelas"
+  "world"
   ],
   "worldsIgnorePvP": [],
   "handleExploitObsidianGenerators": true,

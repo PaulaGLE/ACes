@@ -1,0 +1,53 @@
+inventory:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_ORE
+  amount: 64
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: EMERALD_ORE
+  amount: 64
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STRING
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: DIAMOND_SPADE
+  damage: 4
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null

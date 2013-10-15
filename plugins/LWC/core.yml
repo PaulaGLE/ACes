@@ -9,7 +9,7 @@ core:
     disableHistory: false
     townyBorders: false
     groupPrefix: group.
-    updateNotifier: true
+    updateNotifier: false
 optional:
     onlyProtectWhenOwnerIsOnline: false
     onlyProtectWhenOwnerIsOffline: false

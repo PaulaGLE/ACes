@@ -177,6 +177,8 @@ groups:
     - treeassist.destroy.* 
     - morehearts.diamond
     - EnderChestPlus.diamond
+    - ExtraStorage.bp.open
+    - ExtraStorage.bp.size.18
 
   g:essentials_emerald:
     permissions:
@@ -203,3 +205,4 @@ groups:
     - morehearts.emerald
     - enchantpeek.allow
     - EnderChestPlus.emerald
+    - ExtraStorage.bp.size.45
