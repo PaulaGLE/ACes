@@ -13,6 +13,11 @@ groups:
   Usuarios:
     default: true
     permissions:
+    - quickshop.use
+    - quickshop.create.sell
+    - quickshop.create.buy
+    - quickshop.create.changeprice
+    - quickshop.find  
     inheritance:
     - g:essentials_usuarios
     info:

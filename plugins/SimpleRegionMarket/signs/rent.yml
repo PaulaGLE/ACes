@@ -1,0 +1,46 @@
+world:
+  tienda-1:
+    signs:
+      '0':
+        world: world
+        X: -465.0
+        Y: 14.0
+        Z: 195.0
+    price: 5600.0
+    hidden: false
+    renttime: 604800000
+    account: PhoenixAS
+    taken: false
+  tienda-4:
+    signs:
+      '0':
+        world: world
+        X: -466.0
+        Y: 14.0
+        Z: 214.0
+    price: 5600.0
+    renttime: 604800000
+    account: PhoenixAS
+    taken: false
+  tienda-3:
+    signs:
+      '0':
+        world: world
+        X: -466.0
+        Y: 14.0
+        Z: 212.0
+    price: 5600.0
+    renttime: 604800000
+    account: PhoenixAS
+    taken: false
+  tienda-2:
+    signs:
+      '0':
+        world: world
+        X: -465.0
+        Y: 14.0
+        Z: 197.0
+    price: 5600.0
+    renttime: 604800000
+    account: PhoenixAS
+    taken: false

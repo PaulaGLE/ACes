@@ -1,0 +1,50 @@
+world:
+  global:
+    token:
+      all: 8
+      rent: 8
+    price:
+      all: 50400
+      rent: 50400
+  users:
+    PhoenixAS:
+      buyedtokens:
+        all: 1
+        rent: 1
+      selledtokens:
+        all: 8
+        rent: 8
+      payedprice:
+        all: 5600
+        rent: 5600
+      earnedprice:
+        all: 50400
+        rent: 50400
+    Altair:
+      buyedtokens:
+        all: 4
+        rent: 4
+      payedprice:
+        all: 22400
+        rent: 22400
+    Ezio:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 5600
+        rent: 5600
+    NicoInfante:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 5600
+        rent: 5600
+    Cracker:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 11200
+        rent: 11200

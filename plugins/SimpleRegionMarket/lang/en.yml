@@ -1,0 +1,92 @@
+version: 3.2.1
+MAIN:
+  WARN:
+    NO_ECO_API: No se encontro ni Register ni Vault - Cambiando a version-libre de economia
+    VAULT_NO_ECO: No tienes un sistema economico aparte de Vault corriendo
+    REGISTER_NO_ECO: No tienes un sistema económico aparte de Register corriendo
+  ERROR:
+    NO_WORLDGUARD: No se encontro WorldGuard
+CHECK:
+  WARN:
+    NO_WORLD: Mundo $0 no esta cargado!
+    NO_REGION: Region WorldGuard $0 no encontrada!
+TEMPLATES:
+  NORM:
+    NO_TEMPLATES: No se encontraron plantillas - Creando plantillas estandar
+  WARN:
+    TYPE_NOT_KOWN: Desconocida la plantilla $0
+  ERROR:
+    NO_STANDARD_TEMPLATES: Imposible clear plantillas estandar
+COMMON:
+  CONSOLE_NOWORLD: Debes especificar el mundo en consola
+  NO_REGION: Region $0 no encontrada en mundo $1.
+  NO_TELEPORT_REGION_TYPE: $0 no soporta teletransporte a tipo de region.
+CMD:
+  RELOAD:
+    SUCCESS: Configuracion recargada.
+  LIST:
+    NO_ARG: 'Uso: /srm list [page] [token]- Muestra la lista de regiones.'
+    HEADER: ' --- Regiones (pagina $0): --- '
+  ADD_MEMBER:
+    NO_ARG: 'Uso: /srm addMember <jugador> <region> <mundo> - Añadir miembro a tu region.'
+    SUCCESS: Member added.
+    SUCCESS_MEMBER: 'Has sido añadido por $0 a su region $1'
+  REM_MEMBER:
+    NO_ARG: 'Uso: /srm removeMember <jugador> <region> <mundo> - Remover miembro de tu region.'
+    SUCCESS: Miembro removido.
+    SUCCESS_MEMBER: 'Has sido removido por $0 de su region $1'
+  UNTAKE:
+    NO_ARG: 'Uso: /srm clear <region> [world]- Remueve los dueños y miembros de la region'
+    SUCCESS: Region $0 en mundo $1 ha sido restaurada.
+  REMOVE:
+    NO_ARG: 'Uso: /srm remove <region> [world] - Remueve la region de sistema'
+    SUCCESS: Region $0 en mundo $1 ha sido eliminada.
+  STATISTICS:
+    HEADER: ' --- Estadisticas: --- '
+    NOT_ENABLED: Las estadisticas no estan activadas.
+  MONEYS:
+    HEADER: ' --- Dinero (let): --- ' 
+  TP:
+    NO_FREE_REGION: No se encuentra ninguna region libre.
+    NOT_OWN: No eres dueño de la region con nombre $0.
+PLAYER:
+  ERROR:
+    ECO_PROBLEM: Hubo un problema transfiriendo el dinero.
+    NO_MONEY: No tienes suficiente dinero.
+    NO_PRICE: Precio no encontrado.
+    NO_RENTTIME: Tiempo de alquiler no encontrado.
+    NO_PLAYER: Jugador $0 no encontrado.
+    NO_REGION: No existe region con ese nombre.
+    NOT_OWNER: No eres dueño de este region.
+    PRICE_LIMIT: El precio no esta entre $0 y $1.
+    RENTTIME_LIMIT: El tiempo de alquiler no esta entre $0 y $1.
+    RERENT_TOO_LONG: No puedes extender tu habitacion.
+    NEED_ONE_SIGN: Esta plantilla necesita al menos un cartel cuando esta tomada.
+    OTHER_TOKEN: No puedes crear un cartel de esta muestra cuando hay carteles de otras.
+    FAST_CLICKS: Estas clickeando en el cartel muy rapido!
+  NO_PERMISSIONS: No tienes permiso para hacer esto.
+  REGION:
+    YOURS: Esta es tu region.
+    BOUGHT: Compraste exitosamente la region $0.
+    RENT: Rentaste exitosamente la region $0.
+    JUST_TAKEN_BY: La region $0 fue tomada por $1.
+    TAKEN_BY: Esta region pertenece a $0.
+    DELETED: Region eliminada exitosamente.
+    DELETED_SIGN: Eliminaste ese cartel de la region.
+    ADDED_SIGN:  Añadiste exitosamente $0-Sign a esta region.
+    EXPIRED: Tu region $0 vencio.
+    WARN_EXPIRE: Tu region $0 vencera en $1 minutos.
+    AUTO_EXPANDED: Tu region $0 se expandio automaticamente.
+    ADDED_RENTTIME: Extendiste tu tiempo exitosamente.
+    BID_END_NO_WINER: Fin de la oferta. Nadie gano.
+    BID_END: Fin de la oferta ($0), el ganador es $1.
+    BID_ADD: Añadiste $0 a la oferta ($1)
+  LIMITS:
+    GLOBAL: Pasaste el limite de region global.
+    GROUP: Pasaste el limite de region grupal.
+    TOKEN: Pasaste el limite de region de muestra.
+    GLOBAL_WORLD: Pasaste el limite de region global en este mundo.
+    TOKEN_WORLD: Pasaste el limite de region de muestra en este mundo.
+    GROUP_WORLD: Pasaste el limite de region grupal en este mundo.
+    GROUP_TOKEN: Pasaste el limite de region grupal en esta muestra.
+    ONLY_ONE_BID: Solo puedes estar en una oferta a la vez..

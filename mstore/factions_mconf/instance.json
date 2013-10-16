@@ -49,7 +49,9 @@
   "worldsNoPowerLoss": [
   "world"
   ],
-  "worldsIgnorePvP": [],
+  "worldsIgnorePvP": [
+  "world"
+  ],
   "handleExploitObsidianGenerators": true,
   "handleExploitEnderPearlClipping": true,
   "handleExploitTNTWaterlog": false,
