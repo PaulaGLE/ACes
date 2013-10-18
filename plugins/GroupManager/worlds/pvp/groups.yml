@@ -1,0 +1,101 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+#----------------------------------#
+  Usuarios:
+    default: true
+    permissions:
+    inheritance:
+    - g:essentials_usuarios
+    info:
+      prefix:
+      build: true
+      suffix:
+#----------------------------------#
+  Gold:
+    default: false
+    permissions: []
+    inheritance:
+    - usuarios
+    - g:essentials_gold
+    info:
+      prefix: '&6<Gold>'
+      build: true
+      suffix: ''
+#----------------------------------#
+  Diamond:
+    default: false
+    permissions: []
+    inheritance:
+    - usuarios
+    - gold
+    - g:essentials_diamond
+    info:
+      prefix: '&3<Diamond>'
+      build: true
+      suffix: ''
+#----------------------------------#
+  Emerald:
+    default: false
+    permissions: []
+    inheritance:
+    - usuarios
+    - diamond
+    - g:essentials_emerald
+    info:
+      prefix: '&a<Emerald>'
+      build: true
+      suffix: ''
+#----------------------------------#      
+  Colaboradores:
+    default: false
+    permissions: []
+    inheritance:
+    - usuarios
+    - g:essentials_colaboradores
+    info:
+      prefix: '&5<Colaboradores>'
+      build: true
+      suffix: '&5'      
+#----------------------------------#
+  Moderadores:
+    default: false
+    permissions: []
+    inheritance:
+    - usuarios
+    - g:essentials_moderadores
+    info:
+      prefix: '&2<Moderador>'
+      build: true
+      suffix: '&2'
+#----------------------------------#
+  Admin:
+    default: false
+    permissions: 
+    inheritance:
+    - usuarios
+    - emerald
+    - moderadores
+    - g:essentials_admin
+    info:
+      prefix: '&c<Admin>'
+      build: true
+      suffix: '&c'
+#----------------------------------#  
+  Owner:
+    default: false
+    permissions: 
+    - '*'
+    inheritance: []
+    info:
+      prefix: '&4<Dueño>'
+      build: true
+      suffix: '&4'    
