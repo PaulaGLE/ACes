@@ -126,7 +126,7 @@
     "CONQUER": -10.0,
     "PILLAGE": -10.0
   },
-  "econCostCreate": 200.0,
+  "econCostCreate": 1000.0,
   "econCostSethome": 0.0,
   "econCostJoin": 0.0,
   "econCostLeave": 0.0,

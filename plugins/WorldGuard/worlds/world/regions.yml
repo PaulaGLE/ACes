@@ -130,7 +130,7 @@ regions:
         flags: {}
         owners: {}
         members:
-            players: [cracker]
+            players: [phoenixas]
     tienda-10:
         type: cuboid
         min: {x: -471.0, y: 27.0, z: 119.0}
@@ -323,7 +323,8 @@ regions:
         priority: 20
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [trop]
     tienda-7:
         type: cuboid
         min: {x: -471.0, y: 34.0, z: 156.0}

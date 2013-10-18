@@ -1,25 +1,25 @@
 world:
   global:
     token:
-      all: 8
-      rent: 8
+      all: 10
+      rent: 10
     price:
-      all: 50400
-      rent: 50400
+      all: 58100
+      rent: 58100
   users:
     PhoenixAS:
       buyedtokens:
-        all: 1
-        rent: 1
+        all: 2
+        rent: 2
       selledtokens:
-        all: 8
-        rent: 8
+        all: 10
+        rent: 10
       payedprice:
-        all: 5600
-        rent: 5600
+        all: 11200
+        rent: 11200
       earnedprice:
-        all: 50400
-        rent: 50400
+        all: 58100
+        rent: 58100
     Altair:
       buyedtokens:
         all: 4
@@ -48,3 +48,10 @@ world:
       payedprice:
         all: 11200
         rent: 11200
+    Trop:
+      buyedtokens:
+        all: 1
+        rent: 1
+      payedprice:
+        all: 2100
+        rent: 2100

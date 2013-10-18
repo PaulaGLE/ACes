@@ -7,7 +7,7 @@
 
 wand: 271
 useonmove: true
-portalsdefaulttonether: false
+portalsdefaulttonether: true
 enforceportalaccess: true
 portalcooldown: 1000
 clearonremove: false
