@@ -183,12 +183,12 @@ world:
         Y: 14.0
         Z: 168.0
     price: 2100.0
-    hidden: true
     renttime: 604800000
+    hidden: true
     owner: Trop
     account: PhoenixAS
-    expiredate: 1382669084776
     taken: true
+    expiredate: 1382669084776
   tienda-11:
     signs:
       '0':
@@ -230,8 +230,8 @@ world:
         Y: 14.0
         Z: 195.0
     price: 5600.0
-    renttime: 604800000
     hidden: false
+    renttime: 604800000
     account: PhoenixAS
     taken: false
   tienda-15:

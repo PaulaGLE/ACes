@@ -1,3 +1,8 @@
 world/
+PvP/
 world_nether/
 world_the_end/
+plugins/GroupManager/backup/
+plugins/ExtraStorage/data/
+plugins/PlayerLogger/Users/
+plugins/PlayerLogger/Staff/
