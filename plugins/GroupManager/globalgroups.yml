@@ -93,7 +93,10 @@ groups:
     - livechat.staff.receive
     - livechat.staff.send
     - livechat.mute  
-    - lagmeter.command.lagmem  
+    - lagmeter.command.lagmem 
+    - lagg.check 
+    - lagg.clear
+    - lagg.unloadchunks
 
 #*******************************************************
 #                   ADMINISTRADORES
