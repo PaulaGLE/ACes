@@ -33,6 +33,6 @@ Temp-Scoreboard:
   Type: '%kills%'
   Color: '&9'
   #How many Players would be displayed
-  Items: 5
+  Items: 10
   Intervall-show: 60
   Intervall-disappear: 60

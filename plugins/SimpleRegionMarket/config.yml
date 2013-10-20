@@ -31,7 +31,7 @@ Show_Warning_Rent_Expire: 0
 Remove_LWC_On_Expire: none
 
 # Rollback bolocks when region expire (and save when region went buy), example: rent,let
-Rollback_On_Expire: rent
+Rollback_On_Expire: none
 
 # If player line is empty... true: use sign creator name, false: use Default_Economy_Account
 Player_Line_Empty: true

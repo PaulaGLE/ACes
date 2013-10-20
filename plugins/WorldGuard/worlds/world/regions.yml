@@ -98,6 +98,14 @@ regions:
         flags: {pvp: allow}
         owners: {}
         members: {}
+    hungergames:
+        type: cuboid
+        min: {x: 1024.0, y: 0.0, z: -3360.0}
+        max: {x: 1599.0, y: 163.0, z: -2833.0}
+        priority: 50
+        flags: {pvp: allow, chest-access: allow, build: deny}
+        owners: {}
+        members: {}
     paintballarena:
         type: cuboid
         min: {x: -1169.0, y: 20.0, z: 121.0}

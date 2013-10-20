@@ -1,22 +1,13 @@
 timestamps:
-  login: 1381803581131
-  lastteleport: 1381803613087
-  logout: 1381803752581
-  kits:
-    fullsword: 1381718809115
+  login: 1382156583212
+  lastteleport: 1382155111706
+  logout: 1382156533796
 ipAddress: 201.210.210.41
-lastlocation:
-  world: world
-  x: -620.8750246808759
-  y: 114.0
-  z: 109.4614809161031
-  yaw: -270.32153
-  pitch: 29.25044
+money: '64'
 logoutlocation:
   world: world
-  x: -510.59535738773866
-  y: 13.0
-  z: 180.185568768727
-  yaw: 1.010838
-  pitch: 6.0000143
-afk: false
+  x: -611.6999999880791
+  y: 26.0
+  z: 270.68238278186163
+  yaw: 265.8557
+  pitch: -10.949943

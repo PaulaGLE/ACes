@@ -26,7 +26,7 @@ groups:
     - essentials.tpa
     - essentials.tpaccept
     - essentials.tpdeny 
-    - essentials.signs.use.*
+    - essentials.signs.use.sell
     - helppages.all 
     - -helppages.page.VIP
     - -helppages.page.Admin
@@ -39,6 +39,8 @@ groups:
     - -livechat.factionchat.private.color
     - -livechat.colortag
     - citizens.npc.talk 
+    - easyelevator.call.*
+    - easyelevator.stop.*
     - PlayerPoints.me
     - PointShop.buy.Item
     - PointShop.buy.Cmd
@@ -48,11 +50,19 @@ groups:
     - quicktrade.trade.command 
     - quicktrade.trade.rightclick
     - quicktrade.toggle
+    - simpleregionmarket.signs.use.rent
+    - simpleregionmarket.tpfree
+    - simpleregionmarket.tpowned
     - arena.join.paintball
     - arena.spleef.join
     - arena.join.skirmish
     - arena.join.arena
     - arena.leave
+    - horses.command.summon
+    - horses.command.list
+    - horses.command.delete 
+    - horses.command.dismiss
+
 
 #*******************************************************
 #                   COLABORADORES
@@ -131,6 +141,9 @@ groups:
     - breport.gotoreport
     - livechat.block
     - livechat.socialspy
+    - quickshop.other.destroy
+    - quickshop.other.open
+    - quickshop.clean
 
 #*******************************************************
 #                   DUEÑOS
@@ -138,6 +151,7 @@ groups:
   g:essentials_owner:
     permissions:
     - breport.*
+    - essentials.signs.create.*
 
 #*******************************************************
 #                  GRUPOS VIP
@@ -178,6 +192,7 @@ groups:
     - morehearts.diamond
     - ExtraStorage.bp.open
     - ExtraStorage.bp.size.18
+    - quickshop.create.double
 
   g:essentials_emerald:
     permissions:
@@ -204,3 +219,5 @@ groups:
     - morehearts.emerald
     - enchantpeek.allow
     - ExtraStorage.bp.size.45
+    - horses.colour
+    - horses.formattingcodes

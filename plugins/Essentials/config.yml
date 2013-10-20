@@ -391,8 +391,8 @@ kits:
 enabledSigns:
   #- color
   #- balance
-  #- buy
-  #- sell
+  # buy
+  - sell
   #- trade
   #- free
   #- disposal

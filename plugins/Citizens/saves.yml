@@ -21,7 +21,7 @@ npc:
         yaw: '276.0880432128906'
         pitch: '10.95002269744873'
       owner: Hammet
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,equipment,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -46,7 +46,7 @@ npc:
         yaw: '132.8387451171875'
         pitch: '-16.200008392333984'
       owner: Hammet
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,equipment,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -71,7 +71,7 @@ npc:
         yaw: '215.6572265625'
         pitch: '32.24998474121094'
       owner: Hammet
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,location,equipment,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -116,7 +116,7 @@ npc:
         yaw: '226.302001953125'
         pitch: '-34.499969482421875'
       owner: Hammet
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,location,equipment,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -142,7 +142,7 @@ npc:
         pitch: '0.0'
       owner: Hammet
       type: Enderman
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,location,equipment,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -168,7 +168,7 @@ npc:
         pitch: '0.0'
       owner: Hammet
       type: Enderman
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,equipment,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -198,7 +198,7 @@ npc:
         yaw: '196.299560546875'
         pitch: '-16.4996395111084'
       owner: Hammet
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,equipment,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -218,7 +218,7 @@ npc:
         pitch: '0.0'
       owner: Hammet
       type: Blaze
-    traitnames: owner,spawned,type,location
+    traitnames: type,owner,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -243,7 +243,7 @@ npc:
         yaw: '8.059500694274902'
         pitch: '75.74989318847656'
       spawned: true
-    traitnames: equipment,owner,spawned,type,location
+    traitnames: type,owner,equipment,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -262,7 +262,7 @@ npc:
         z: '449.94276772724265'
         yaw: '318.4209899902344'
         pitch: '26.550121307373047'
-    traitnames: owner,spawned,type,location
+    traitnames: type,owner,location,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1

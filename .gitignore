@@ -6,3 +6,4 @@ plugins/GroupManager/backup/
 plugins/ExtraStorage/data/
 plugins/PlayerLogger/Users/
 plugins/PlayerLogger/Staff/
+plugins/BattleArena/inventories/

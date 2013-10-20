@@ -1,11 +1,19 @@
 inventory:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
+- ==: org.bukkit.inventory.ItemStack
+  type: BOW
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+  amount: 62
+- ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_BOOTS
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_HELMET
+- ==: org.bukkit.inventory.ItemStack
+  type: IRON_CHESTPLATE
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_SWORD
+- ==: org.bukkit.inventory.ItemStack
+  type: GOLD_SWORD
 - null
 - null
 - null
