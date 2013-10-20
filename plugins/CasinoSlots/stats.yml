@@ -2,8 +2,8 @@ global:
   spins: 455
   wins: 119
   losts: 336
-  won: 150500.0
-  lost: 226500.0
+  won: 30200.0
+  lost: 45500.0
 types:
   default:
     spins: 455
