@@ -1,0 +1,58 @@
+# Instructions for this configuration file can be found at the BukkitDev page:
+# http://dev.bukkit.org/server-mods/casino-slots/pages/info/config/
+# If you change the config-version, the defaults will be added. You have been warned.
+options:
+  debug: false
+  config-version: 1.0
+  bukkit-version: 2377
+  track-statistics: true
+  allow-diagonal-winnings: true
+  enable-slot-protection: true
+  enable-chunk-messages: false
+  enable-worldguard-check: false
+  towny-checks:
+    enabled: false
+    only-mayors: true
+    no-mayor: You must be a mayor to create a Casino Slot.
+    only-towns: true
+    no-town: To create a slot you must be part of a town.
+    no-ownership: You don't own the plot where that would be at, please make sure you are the owner and then try again.
+  chat:
+    display-plugin-prefix: true
+    plugin-prefix: '[Casino]'
+    plugin-prefix-color: '&c&o'
+    chat-color: '&a'
+types:
+  default:
+    cost: 100
+    create-cost: 0
+    reel:
+    - 42,30
+    - 41,20
+    - 57,10
+    - 22,20
+    rewards:
+      '42':
+        message: 3 bloques de hierro en fila. Ganaste $200.
+        money: 200.0
+      '41':
+        message: 3 bloques de oro en fila. Ganaste $300.
+        money: 300.0
+      '57':
+        message: 3 bloques de diamante en fila. Ganaste $800.
+        money: 800.0
+      '22':
+        message: 3 bloques de lapislazuli en fila. Ganaste $100.
+        money: 100.0
+    messages:
+      insufficient-permission: No tienes permiso para usar eso.
+      insufficient-funds: Fondos insuficientes.
+      in-use: Esta maquina esta ocupada.
+      no-win: Perdiste. Mejor suerte para la proxima.
+      start: Se removieron [cost] de tu cuenta. Buena suerte y a girar.
+      help:
+      - '&3Instrucciones:'
+      - Consigue 3 bloques en linea para ganar.
+      - '&3 3 bloques de &7hierro &3: $200'
+      - '&3 3 bloques de &6oro &3:$300'
+      - '&3 3 bloques de &bdiamante &3: $800'

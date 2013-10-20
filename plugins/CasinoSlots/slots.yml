@@ -1,0 +1,85 @@
+slots:
+  slotmachine-1:
+    name: slotmachine-1
+    type: default
+    owner: PhoenixAS
+    world: world
+    managed: false
+    funds: 0.0
+    item: false
+    itemID: 0
+    itemAmt: 0
+    controller: -1211,20,379
+    location:
+    - -1214,21,377
+    - -1214,21,379
+    - -1214,21,381
+    - -1214,22,377
+    - -1214,22,379
+    - -1214,22,381
+    - -1214,23,377
+    - -1214,23,379
+    - -1214,23,381
+  slotmachine-2:
+    name: slotmachine-2
+    type: default
+    owner: PhoenixAS
+    world: world
+    managed: false
+    funds: 0.0
+    item: false
+    itemID: 0
+    itemAmt: 0
+    controller: -1211,20,395
+    location:
+    - -1214,21,393
+    - -1214,21,395
+    - -1214,21,397
+    - -1214,22,393
+    - -1214,22,395
+    - -1214,22,397
+    - -1214,23,393
+    - -1214,23,395
+    - -1214,23,397
+  slotmachine-3:
+    name: slotmachine-3
+    type: default
+    owner: PhoenixAS
+    world: world
+    managed: false
+    funds: 0.0
+    item: false
+    itemID: 0
+    itemAmt: 0
+    controller: -1238,20,379
+    location:
+    - -1235,21,381
+    - -1235,21,379
+    - -1235,21,377
+    - -1235,22,381
+    - -1235,22,379
+    - -1235,22,377
+    - -1235,23,381
+    - -1235,23,379
+    - -1235,23,377
+  slotmachine-4:
+    name: slotmachine-4
+    type: default
+    owner: PhoenixAS
+    world: world
+    managed: false
+    funds: 0.0
+    item: false
+    itemID: 0
+    itemAmt: 0
+    controller: -1238,20,395
+    location:
+    - -1235,21,397
+    - -1235,21,395
+    - -1235,21,393
+    - -1235,22,397
+    - -1235,22,395
+    - -1235,22,393
+    - -1235,23,397
+    - -1235,23,395
+    - -1235,23,393

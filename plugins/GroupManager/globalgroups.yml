@@ -62,6 +62,7 @@ groups:
     - horses.command.list
     - horses.command.delete 
     - horses.command.dismiss
+    - casinoslots.use
 
 
 #*******************************************************
